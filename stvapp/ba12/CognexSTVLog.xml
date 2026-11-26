@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CognexSTVLog>
+  <DateTime>2026-11-11T21:41:29.3859288+01:00</DateTime>
+  <Messages>
+    <Item>Connect(portName=COM3,baudrate=115200).</Item>
+    <Item>Result Data = SY000543.</Item>
+    <Item>Data = 'SY000543' writen to DataFile = 'C:\Program Files (x86)\Falcon_hdij\CognexSTVData.txt'.</Item>
+    <Item>Disconnect.</Item>
+  </Messages>
+</CognexSTVLog>

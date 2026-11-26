@@ -1,0 +1,703 @@
+Testmode protocol of session Date=Mon Oct 08 09:29:08 2018
+
+stitch cal cam0	 ncnt 0	 xcm -0.15028
+stitch cal cam1 result ncnt 0	 xcm -0.12602	 dxcal 0.02426	 cam01 42.9477
+stitch cal cam0	 ncnt 0	 xcm -0.15032
+stitch cal cam1 result ncnt 0	 xcm -0.12605	 dxcal 0.02428	 cam01 42.9477
+stitch cal cam0	 ncnt 0	 xcm -0.15033
+stitch cal cam1 result ncnt 0	 xcm -0.12588	 dxcal 0.02445	 cam01 42.9475
+stitch cal cam0	 ncnt 0	 xcm -0.15009
+stitch cal cam1 result ncnt 0	 xcm -0.12599	 dxcal 0.02411	 cam01 42.9479
+stitch cal cam0	 ncnt 0	 xcm -0.15027
+stitch cal cam1 result ncnt 0	 xcm -0.12580	 dxcal 0.02447	 cam01 42.9475
+stitch cal cam0	 ncnt 0	 xcm -0.15024
+stitch cal cam1 result ncnt 0	 xcm -0.12587	 dxcal 0.02437	 cam01 42.9476
+stitch cal cam0	 ncnt 0	 xcm -0.15030
+stitch cal cam1 result ncnt 0	 xcm -0.12591	 dxcal 0.02439	 cam01 42.9476
+stitch cal cam0	 ncnt 0	 xcm -0.15028
+stitch cal cam1 result ncnt 0	 xcm -0.12595	 dxcal 0.02432	 cam01 42.9477
+stitch cal cam0	 ncnt 0	 xcm -0.15029
+stitch cal cam1 result ncnt 0	 xcm -0.12593	 dxcal 0.02436	 cam01 42.9476
+stitch cal cam0	 ncnt 0	 xcm -0.15028
+stitch cal cam1 result ncnt 0	 xcm -0.12602	 dxcal 0.02427	 cam01 42.9477
+stitch mes cam0 nxcv 8			 xcm 0.16849		1.52199	1.18312	0.84483	0.50664	0.16849	-0.16956	-0.50783	-0.84623	
+stitch mes cam1 su_ix 1	  nfvbuf 8	 XCV=	1.91703	1.57815	1.23987	0.90167	0.56352	0.22548	-0.11280	-0.45120	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1685	stitchdif hole# 0	 stitchdif 1.724266
+stitchdif hole# 1	 stitchdif 1.385391
+stitchdif hole# 2	 stitchdif 1.047104
+stitchdif hole# 3	 stitchdif 0.708912
+stitchdif hole# 4	 stitchdif 0.370762
+stitchdif hole# 5	 stitchdif 0.032715
+stitchdif hole# 6	 stitchdif -0.305557
+stitchdif hole# 7	 stitchdif -0.643963
+Cam1: best hole# 5	 stitchdif 0.032715
+best stitch 0.0327
+Results: dxtest 0.05699	 Cam01 42.94773	 Stitch 43.00471
+stitch cal cam0	 ncnt 0	 xcm -0.15157
+stitch cal cam1 result ncnt 0	 xcm -0.12738	 dxcal 0.02420	 cam01 42.9478
+stitch cal cam0	 ncnt 0	 xcm -0.15178
+stitch cal cam1 result ncnt 0	 xcm -0.12756	 dxcal 0.02421	 cam01 42.9478
+stitch cal cam0	 ncnt 0	 xcm -0.15172
+stitch cal cam1 result ncnt 0	 xcm -0.12744	 dxcal 0.02429	 cam01 42.9477
+stitch cal cam0	 ncnt 0	 xcm -0.15171
+stitch cal cam1 result ncnt 0	 xcm -0.12747	 dxcal 0.02424	 cam01 42.9478
+stitch cal cam0	 ncnt 0	 xcm -0.15166
+stitch cal cam1 result ncnt 0	 xcm -0.12757	 dxcal 0.02409	 cam01 42.9479
+stitch cal cam0	 ncnt 0	 xcm -0.15178
+stitch cal cam1 result ncnt 0	 xcm -0.12738	 dxcal 0.02439	 cam01 42.9476
+stitch cal cam0	 ncnt 0	 xcm -0.15169
+stitch cal cam1 result ncnt 0	 xcm -0.12733	 dxcal 0.02436	 cam01 42.9476
+stitch cal cam0	 ncnt 0	 xcm -0.15161
+stitch cal cam1 result ncnt 0	 xcm -0.12757	 dxcal 0.02405	 cam01 42.9480
+stitch cal cam0	 ncnt 0	 xcm -0.15155
+stitch cal cam1 result ncnt 0	 xcm -0.12730	 dxcal 0.02426	 cam01 42.9477
+stitch cal cam0	 ncnt 0	 xcm -0.15170
+stitch cal cam1 result ncnt 0	 xcm -0.12756	 dxcal 0.02414	 cam01 42.9479
+stitch mes cam0 nxcv 8			 xcm 0.16885		1.52226	1.18344	0.84510	0.50691	0.16885	-0.50740	-0.16915	-0.84588	
+stitch mes cam1 su_ix 1	  nfvbuf 8	 XCV=	1.91730	1.57847	1.24013	0.90194	0.56388	-0.11237	0.22588	-0.45085	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1689	stitchdif hole# 0	 stitchdif 1.724304
+stitchdif hole# 1	 stitchdif 1.385475
+stitchdif hole# 2	 stitchdif 1.047134
+stitchdif hole# 3	 stitchdif 0.708954
+stitchdif hole# 4	 stitchdif 0.370892
+stitchdif hole# 5	 stitchdif -0.305363
+stitchdif hole# 6	 stitchdif 0.032887
+stitchdif hole# 7	 stitchdif -0.643845
+Cam1: best hole# 6	 stitchdif 0.032887
+best stitch 0.0329
+Results: dxtest 0.05703	 Cam01 42.94786	 Stitch 43.00489
+stitch cal cam0	 ncnt 0	 xcm -0.14986
+stitch cal cam1 result ncnt 0	 xcm -0.12541	 dxcal 0.02446	 cam01 42.9475
+stitch cal cam0	 ncnt 0	 xcm -0.14962
+stitch cal cam1 result ncnt 0	 xcm -0.12537	 dxcal 0.02426	 cam01 42.9477
+stitch cal cam0	 ncnt 0	 xcm -0.14956
+stitch cal cam1 result ncnt 0	 xcm -0.12528	 dxcal 0.02428	 cam01 42.9477
+stitch cal cam0	 ncnt 0	 xcm -0.14953
+stitch cal cam1 result ncnt 0	 xcm -0.12520	 dxcal 0.02433	 cam01 42.9477
+stitch cal cam0	 ncnt 0	 xcm -0.14955
+stitch cal cam1 result ncnt 0	 xcm -0.12526	 dxcal 0.02429	 cam01 42.9477
+stitch cal cam0	 ncnt 0	 xcm -0.14948
+stitch cal cam1 result ncnt 0	 xcm -0.12525	 dxcal 0.02423	 cam01 42.9478
+stitch cal cam0	 ncnt 0	 xcm -0.14950
+stitch cal cam1 result ncnt 0	 xcm -0.12527	 dxcal 0.02423	 cam01 42.9478
+stitch cal cam0	 ncnt 0	 xcm -0.14947
+stitch cal cam1 result ncnt 0	 xcm -0.12531	 dxcal 0.02416	 cam01 42.9478
+stitch cal cam0	 ncnt 0	 xcm -0.14942
+stitch cal cam1 result ncnt 0	 xcm -0.12523	 dxcal 0.02419	 cam01 42.9478
+stitch cal cam0	 ncnt 0	 xcm -0.14948
+stitch cal cam1 result ncnt 0	 xcm -0.12538	 dxcal 0.02409	 cam01 42.9479
+stitch mes cam0 nxcv 8			 xcm -0.16810		1.52342	1.18461	0.84630	0.50806	0.16989	-0.16810	-0.50641	-0.84478	
+stitch mes cam1 su_ix 1	  nfvbuf 8	 XCV=	1.91845	1.57964	1.24133	0.90309	0.56492	0.22693	-0.11138	-0.44975	
+
+irepeat cam0 # 0	 idistmin 5	 xcv -0.1681	stitchdif hole# 0	 stitchdif 2.062454
+stitchdif hole# 1	 stitchdif 1.723648
+stitchdif hole# 2	 stitchdif 1.385342
+stitchdif hole# 3	 stitchdif 1.047096
+stitchdif hole# 4	 stitchdif 0.708931
+stitchdif hole# 5	 stitchdif 0.370937
+stitchdif hole# 6	 stitchdif 0.032623
+stitchdif hole# 7	 stitchdif -0.305740
+Cam1: best hole# 6	 stitchdif 0.032623
+best stitch 0.0326
+Results: dxtest 0.05672	 Cam01 42.94791	 Stitch 43.00462
+===================================================================================================================================================
+
+Testmode protocol of session Date=Mon Oct 08 09:45:39 2018
+
+stitch cal cam0	 ncnt 0	 xcm -0.12136
+stitch cal cam1 result ncnt 0	 xcm -0.09737	 dxcal 0.02399	 cam01 42.9480
+stitch cal cam0	 ncnt 0	 xcm -0.12141
+stitch cal cam1 result ncnt 0	 xcm -0.09754	 dxcal 0.02387	 cam01 42.9481
+stitch cal cam0	 ncnt 0	 xcm -0.12138
+stitch cal cam1 result ncnt 0	 xcm -0.09753	 dxcal 0.02384	 cam01 42.9482
+stitch cal cam0	 ncnt 0	 xcm -0.12136
+stitch cal cam1 result ncnt 0	 xcm -0.09744	 dxcal 0.02392	 cam01 42.9481
+stitch cal cam0	 ncnt 0	 xcm -0.12140
+stitch cal cam1 result ncnt 0	 xcm -0.09733	 dxcal 0.02406	 cam01 42.9479
+stitch cal cam0	 ncnt 0	 xcm -0.12126
+stitch cal cam1 result ncnt 0	 xcm -0.09738	 dxcal 0.02388	 cam01 42.9481
+stitch cal cam0	 ncnt 0	 xcm -0.12138
+stitch cal cam1 result ncnt 0	 xcm -0.09729	 dxcal 0.02409	 cam01 42.9479
+stitch cal cam0	 ncnt 0	 xcm -0.12141
+stitch cal cam1 result ncnt 0	 xcm -0.09742	 dxcal 0.02398	 cam01 42.9480
+stitch cal cam0	 ncnt 0	 xcm -0.12134
+stitch cal cam1 result ncnt 0	 xcm -0.09733	 dxcal 0.02401	 cam01 42.9480
+stitch cal cam0	 ncnt 0	 xcm -0.12132
+stitch cal cam1 result ncnt 0	 xcm -0.09732	 dxcal 0.02400	 cam01 42.9480
+stitch mes cam0 nxcv 8			 xcm 0.16526		1.51863	1.17989	0.84148	0.50334	-0.17286	0.16526	-0.51101	-0.84951	
+stitch mes cam1 su_ix 1	  nfvbuf 8	 XCV=	1.91366	1.57493	1.23651	0.89838	0.22217	0.56029	-0.11598	-0.45448	
+
+irepeat cam0 # 0	 idistmin 5	 xcv 0.1653
+stitchdif hole# 0	 stitchdif 1.724392
+stitchdif hole# 1	 stitchdif 1.385662
+stitchdif hole# 2	 stitchdif 1.047249
+stitchdif hole# 3	 stitchdif 0.709110
+stitchdif hole# 4	 stitchdif 0.032902
+stitchdif hole# 5	 stitchdif 0.371025
+stitchdif hole# 6	 stitchdif -0.305248
+stitchdif hole# 7	 stitchdif -0.643742
+Cam1: best hole# 4	 stitchdif 0.032902
+best stitch 0.0329
+Results: dxtest 0.05691	 Cam01 42.94799	 Stitch 43.00490
+stitch cal cam0	 ncnt 0	 xcm -0.11972
+stitch cal cam1 result ncnt 0	 xcm -0.09536	 dxcal 0.02436	 cam01 42.9476
+stitch cal cam0	 ncnt 0	 xcm -0.11960
+stitch cal cam1 result ncnt 0	 xcm -0.09545	 dxcal 0.02415	 cam01 42.9479
+stitch cal cam0	 ncnt 0	 xcm -0.11960
+stitch cal cam1 result ncnt 0	 xcm -0.09553	 dxcal 0.02407	 cam01 42.9479
+stitch cal cam0	 ncnt 0	 xcm -0.11962
+stitch cal cam1 result ncnt 0	 xcm -0.09544	 dxcal 0.02418	 cam01 42.9478
+stitch cal cam0	 ncnt 0	 xcm -0.11953
+stitch cal cam1 result ncnt 0	 xcm -0.09546	 dxcal 0.02406	 cam01 42.9479
+stitch cal cam0	 ncnt 0	 xcm -0.11962
+stitch cal cam1 result ncnt 0	 xcm -0.09545	 dxcal 0.02417	 cam01 42.9478
+stitch cal cam0	 ncnt 0	 xcm -0.11954
+stitch cal cam1 result ncnt 0	 xcm -0.09540	 dxcal 0.02415	 cam01 42.9479
+stitch cal cam0	 ncnt 0	 xcm -0.11962
+stitch cal cam1 result ncnt 0	 xcm -0.09545	 dxcal 0.02417	 cam01 42.9478
+stitch cal cam0	 ncnt 0	 xcm -0.11955
+stitch cal cam1 result ncnt 0	 xcm -0.09543	 dxcal 0.02412	 cam01 42.9479
+stitch cal cam0	 ncnt 0	 xcm -0.11949
+stitch cal cam1 result ncnt 0	 xcm -0.09546	 dxcal 0.02402	 cam01 42.9480
+stitch mes cam0 nxcv 8			 xcm 0.16521		1.51869	1.17988	0.84159	0.50335	0.16521	-0.17281	-0.51106	-0.84952	
+stitch mes cam1 su_ix 1	  nfvbuf 8	 XCV=	1.91372	1.57491	1.23662	0.89839	0.56025	0.22222	-0.11602	-0.45449	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1652
+stitchdif hole# 0	 stitchdif 1.724487
+stitchdif hole# 1	 stitchdif 1.385677
+stitchdif hole# 2	 stitchdif 1.047390
+stitchdif hole# 3	 stitchdif 0.709148
+stitchdif hole# 4	 stitchdif 0.371010
+stitchdif hole# 5	 stitchdif 0.032986
+stitchdif hole# 6	 stitchdif -0.305260
+stitchdif hole# 7	 stitchdif -0.643730
+Cam1: best hole# 5	 stitchdif 0.032986
+best stitch 0.0330
+Results: dxtest 0.05701	 Cam01 42.94798	 Stitch 43.00499
+stitch cal cam0	 ncnt 0	 xcm -0.12513
+stitch cal cam1 result ncnt 0	 xcm -0.10106	 dxcal 0.02407	 cam01 42.9479
+stitch cal cam0	 ncnt 0	 xcm -0.12541
+stitch cal cam1 result ncnt 0	 xcm -0.10140	 dxcal 0.02401	 cam01 42.9480
+stitch cal cam0	 ncnt 0	 xcm -0.12561
+stitch cal cam1 result ncnt 0	 xcm -0.10145	 dxcal 0.02416	 cam01 42.9478
+stitch cal cam0	 ncnt 0	 xcm -0.12557
+stitch cal cam1 result ncnt 0	 xcm -0.10161	 dxcal 0.02396	 cam01 42.9480
+stitch cal cam0	 ncnt 0	 xcm -0.12559
+stitch cal cam1 result ncnt 0	 xcm -0.10138	 dxcal 0.02422	 cam01 42.9478
+stitch cal cam0	 ncnt 0	 xcm -0.12561
+stitch cal cam1 result ncnt 0	 xcm -0.10149	 dxcal 0.02412	 cam01 42.9479
+stitch cal cam0	 ncnt 0	 xcm -0.12548
+stitch cal cam1 result ncnt 0	 xcm -0.10162	 dxcal 0.02386	 cam01 42.9481
+stitch cal cam0	 ncnt 0	 xcm -0.12552
+stitch cal cam1 result ncnt 0	 xcm -0.10154	 dxcal 0.02398	 cam01 42.9480
+stitch cal cam0	 ncnt 0	 xcm -0.12554
+stitch cal cam1 result ncnt 0	 xcm -0.10152	 dxcal 0.02402	 cam01 42.9480
+stitch cal cam0	 ncnt 0	 xcm -0.12559
+stitch cal cam1 result ncnt 0	 xcm -0.10149	 dxcal 0.02410	 cam01 42.9479
+stitch mes cam0 nxcv 8			 xcm -0.16857		1.52287	1.18404	0.84577	0.50756	0.16941	-0.16857	-0.84518	-0.50679	
+stitch mes cam1 su_ix 1	  nfvbuf 8	 XCV=	1.91790	1.57907	1.24080	0.90259	0.56444	0.22646	-0.45015	-0.11176	
+
+irepeat cam0 # 0	 idistmin 5	 xcv -0.1686
+stitchdif hole# 0	 stitchdif 2.062370
+stitchdif hole# 1	 stitchdif 1.723545
+stitchdif hole# 2	 stitchdif 1.385273
+stitchdif hole# 3	 stitchdif 1.047066
+stitchdif hole# 4	 stitchdif 0.708920
+stitchdif hole# 5	 stitchdif 0.370930
+stitchdif hole# 6	 stitchdif -0.305676
+stitchdif hole# 7	 stitchdif 0.032715
+Cam1: best hole# 7	 stitchdif 0.032715
+best stitch 0.0327
+Results: dxtest 0.05682	 Cam01 42.94790	 Stitch 43.00471
+stitch cal cam0	 ncnt 0	 xcm -0.12696
+stitch cal cam1 result ncnt 0	 xcm -0.10326	 dxcal 0.02371	 cam01 42.9483
+stitch cal cam0	 ncnt 0	 xcm -0.12695
+stitch cal cam1 result ncnt 0	 xcm -0.10318	 dxcal 0.02376	 cam01 42.9482
+stitch cal cam0	 ncnt 0	 xcm -0.12710
+stitch cal cam1 result ncnt 0	 xcm -0.10319	 dxcal 0.02391	 cam01 42.9481
+stitch cal cam0	 ncnt 0	 xcm -0.12707
+stitch cal cam1 result ncnt 0	 xcm -0.10308	 dxcal 0.02399	 cam01 42.9480
+stitch cal cam0	 ncnt 0	 xcm -0.12702
+stitch cal cam1 result ncnt 0	 xcm -0.10308	 dxcal 0.02394	 cam01 42.9481
+stitch cal cam0	 ncnt 0	 xcm -0.12704
+stitch cal cam1 result ncnt 0	 xcm -0.10307	 dxcal 0.02397	 cam01 42.9480
+stitch cal cam0	 ncnt 0	 xcm -0.12707
+stitch cal cam1 result ncnt 0	 xcm -0.10296	 dxcal 0.02411	 cam01 42.9479
+stitch cal cam0	 ncnt 0	 xcm -0.12705
+stitch cal cam1 result ncnt 0	 xcm -0.10312	 dxcal 0.02393	 cam01 42.9481
+stitch cal cam0	 ncnt 0	 xcm -0.12704
+stitch cal cam1 result ncnt 0	 xcm -0.10313	 dxcal 0.02390	 cam01 42.9481
+stitch cal cam0	 ncnt 0	 xcm -0.12708
+stitch cal cam1 result ncnt 0	 xcm -0.10300	 dxcal 0.02408	 cam01 42.9479
+stitch mes cam0 nxcv 8			 xcm 0.16478		1.17939	1.51819	0.84118	0.50291	0.16478	-0.17324	-0.51147	-0.84982	
+stitch mes cam1 su_ix 1	  nfvbuf 8	 XCV=	1.57443	1.91322	1.23621	0.89794	0.55982	0.22179	-0.11644	-0.45479	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1648
+stitchdif hole# 0	 stitchdif 1.385567
+stitchdif hole# 1	 stitchdif 1.724365
+stitchdif hole# 2	 stitchdif 1.047352
+stitchdif hole# 3	 stitchdif 0.709084
+stitchdif hole# 4	 stitchdif 0.370956
+stitchdif hole# 5	 stitchdif 0.032928
+stitchdif hole# 6	 stitchdif -0.305298
+stitchdif hole# 7	 stitchdif -0.643642
+Cam1: best hole# 5	 stitchdif 0.032928
+best stitch 0.0329
+Results: dxtest 0.05700	 Cam01 42.94793	 Stitch 43.00493
+stitch cal cam0	 ncnt 0	 xcm -0.12531
+stitch cal cam1 result ncnt 0	 xcm -0.10122	 dxcal 0.02408	 cam01 42.9479
+stitch cal cam0	 ncnt 0	 xcm -0.12556
+stitch cal cam1 result ncnt 0	 xcm -0.10149	 dxcal 0.02407	 cam01 42.9479
+stitch cal cam0	 ncnt 0	 xcm -0.12546
+stitch cal cam1 result ncnt 0	 xcm -0.10142	 dxcal 0.02404	 cam01 42.9480
+stitch cal cam0	 ncnt 0	 xcm -0.12550
+stitch cal cam1 result ncnt 0	 xcm -0.10138	 dxcal 0.02412	 cam01 42.9479
+stitch cal cam0	 ncnt 0	 xcm -0.12541
+stitch cal cam1 result ncnt 0	 xcm -0.10168	 dxcal 0.02373	 cam01 42.9483
+stitch cal cam0	 ncnt 0	 xcm -0.12547
+stitch cal cam1 result ncnt 0	 xcm -0.10145	 dxcal 0.02402	 cam01 42.9480
+stitch cal cam0	 ncnt 0	 xcm -0.12546
+stitch cal cam1 result ncnt 0	 xcm -0.10158	 dxcal 0.02389	 cam01 42.9481
+stitch cal cam0	 ncnt 0	 xcm -0.12541
+stitch cal cam1 result ncnt 0	 xcm -0.10141	 dxcal 0.02400	 cam01 42.9480
+stitch cal cam0	 ncnt 0	 xcm -0.12553
+stitch cal cam1 result ncnt 0	 xcm -0.10146	 dxcal 0.02407	 cam01 42.9479
+stitch cal cam0	 ncnt 0	 xcm -0.12539
+stitch cal cam1 result ncnt 0	 xcm -0.10138	 dxcal 0.02401	 cam01 42.9480
+stitch mes cam0 nxcv 8			 xcm 0.16576		1.51917	1.18030	0.84214	0.50398	0.16576	-0.17216	-0.51047	-0.84880	
+stitch mes cam1 su_ix 1	  nfvbuf 8	 XCV=	1.91420	1.57533	1.23718	0.89901	0.56080	0.22287	-0.11544	-0.45377	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1658
+stitchdif hole# 0	 stitchdif 1.724422
+stitchdif hole# 1	 stitchdif 1.385555
+stitchdif hole# 2	 stitchdif 1.047398
+stitchdif hole# 3	 stitchdif 0.709232
+stitchdif hole# 4	 stitchdif 0.371017
+stitchdif hole# 5	 stitchdif 0.033096
+stitchdif hole# 6	 stitchdif -0.305214
+stitchdif hole# 7	 stitchdif -0.643547
+Cam1: best hole# 5	 stitchdif 0.033096
+best stitch 0.0331
+Results: dxtest 0.05711	 Cam01 42.94799	 Stitch 43.00510
+stitch cal cam0	 ncnt 0	 xcm -0.11670
+stitch cal cam1 result ncnt 0	 xcm -0.09262	 dxcal 0.02408	 cam01 42.9479
+stitch cal cam0	 ncnt 0	 xcm -0.11689
+stitch cal cam1 result ncnt 0	 xcm -0.09293	 dxcal 0.02396	 cam01 42.9480
+stitch cal cam0	 ncnt 0	 xcm -0.11696
+stitch cal cam1 result ncnt 0	 xcm -0.09285	 dxcal 0.02411	 cam01 42.9479
+stitch cal cam0	 ncnt 0	 xcm -0.11689
+stitch cal cam1 result ncnt 0	 xcm -0.09276	 dxcal 0.02413	 cam01 42.9479
+stitch cal cam0	 ncnt 0	 xcm -0.11692
+stitch cal cam1 result ncnt 0	 xcm -0.09256	 dxcal 0.02436	 cam01 42.9476
+stitch cal cam0	 ncnt 0	 xcm -0.11690
+stitch cal cam1 result ncnt 0	 xcm -0.09284	 dxcal 0.02406	 cam01 42.9479
+stitch cal cam0	 ncnt 0	 xcm -0.11693
+stitch cal cam1 result ncnt 0	 xcm -0.09270	 dxcal 0.02423	 cam01 42.9478
+stitch cal cam0	 ncnt 0	 xcm -0.11690
+stitch cal cam1 result ncnt 0	 xcm -0.09272	 dxcal 0.02418	 cam01 42.9478
+stitch cal cam0	 ncnt 0	 xcm -0.11692
+stitch cal cam1 result ncnt 0	 xcm -0.09283	 dxcal 0.02409	 cam01 42.9479
+stitch cal cam0	 ncnt 0	 xcm -0.11681
+stitch cal cam1 result ncnt 0	 xcm -0.09267	 dxcal 0.02414	 cam01 42.9479
+stitch mes cam0 nxcv 8			 xcm 0.16159		1.51501	1.17627	0.83791	0.49971	0.16159	-0.17643	-0.51469	-0.85314	
+stitch mes cam1 su_ix 1	  nfvbuf 8	 XCV=	1.91005	1.57130	1.23294	0.89474	0.55662	0.21860	-0.11965	-0.45811	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1616
+stitchdif hole# 0	 stitchdif 1.724316
+stitchdif hole# 1	 stitchdif 1.385571
+stitchdif hole# 2	 stitchdif 1.047207
+stitchdif hole# 3	 stitchdif 0.709011
+stitchdif hole# 4	 stitchdif 0.370888
+stitchdif hole# 5	 stitchdif 0.032875
+stitchdif hole# 6	 stitchdif -0.305386
+stitchdif hole# 7	 stitchdif -0.643837
+Cam1: best hole# 5	 stitchdif 0.032875
+best stitch 0.0329
+Results: dxtest 0.05702	 Cam01 42.94786	 Stitch 43.00488
+stitch cal cam0	 ncnt 0	 xcm -0.11526
+stitch cal cam1 result ncnt 0	 xcm -0.09129	 dxcal 0.02397	 cam01 42.9480
+stitch cal cam0	 ncnt 0	 xcm -0.11527
+stitch cal cam1 result ncnt 0	 xcm -0.09115	 dxcal 0.02412	 cam01 42.9479
+stitch cal cam0	 ncnt 0	 xcm -0.11531
+stitch cal cam1 result ncnt 0	 xcm -0.09105	 dxcal 0.02427	 cam01 42.9477
+stitch cal cam0	 ncnt 0	 xcm -0.11527
+stitch cal cam1 result ncnt 0	 xcm -0.09120	 dxcal 0.02408	 cam01 42.9479
+stitch cal cam0	 ncnt 0	 xcm -0.11526
+stitch cal cam1 result ncnt 0	 xcm -0.09119	 dxcal 0.02408	 cam01 42.9479
+stitch cal cam0	 ncnt 0	 xcm -0.11527
+stitch cal cam1 result ncnt 0	 xcm -0.09112	 dxcal 0.02415	 cam01 42.9478
+stitch cal cam0	 ncnt 0	 xcm -0.11518
+stitch cal cam1 result ncnt 0	 xcm -0.09123	 dxcal 0.02394	 cam01 42.9481
+stitch cal cam0	 ncnt 0	 xcm -0.11523
+stitch cal cam1 result ncnt 0	 xcm -0.09095	 dxcal 0.02428	 cam01 42.9477
+stitch cal cam0	 ncnt 0	 xcm -0.11527
+stitch cal cam1 result ncnt 0	 xcm -0.09101	 dxcal 0.02426	 cam01 42.9477
+stitch cal cam0	 ncnt 0	 xcm -0.11526
+stitch cal cam1 result ncnt 0	 xcm -0.09119	 dxcal 0.02407	 cam01 42.9479
+stitch mes cam0 nxcv 8			 xcm -0.16621		1.52525	1.18643	0.84814	0.50988	0.17174	-0.50447	-0.16621	-0.84280	
+stitch mes cam1 su_ix 1	  nfvbuf 8	 XCV=	1.92028	1.58146	1.24318	0.90491	0.56677	-0.10944	0.22883	-0.44777	
+
+irepeat cam0 # 0	 idistmin 6	 xcv -0.1662
+stitchdif hole# 0	 stitchdif 2.062416
+stitchdif hole# 1	 stitchdif 1.723595
+stitchdif hole# 2	 stitchdif 1.385311
+stitchdif hole# 3	 stitchdif 1.047050
+stitchdif hole# 4	 stitchdif 0.708904
+stitchdif hole# 5	 stitchdif 0.032700
+stitchdif hole# 6	 stitchdif 0.370960
+stitchdif hole# 7	 stitchdif -0.305634
+Cam1: best hole# 5	 stitchdif 0.032700
+best stitch 0.0327
+Results: dxtest 0.05677	 Cam01 42.94793	 Stitch 43.00470
+stitch cal cam0	 ncnt 0	 xcm -0.11319
+stitch cal cam1 result ncnt 0	 xcm -0.08900	 dxcal 0.02419	 cam01 42.9478
+stitch cal cam0	 ncnt 0	 xcm -0.11313
+stitch cal cam1 result ncnt 0	 xcm -0.08912	 dxcal 0.02401	 cam01 42.9480
+stitch cal cam0	 ncnt 0	 xcm -0.11313
+stitch cal cam1 result ncnt 0	 xcm -0.08900	 dxcal 0.02413	 cam01 42.9479
+stitch cal cam0	 ncnt 0	 xcm -0.11312
+stitch cal cam1 result ncnt 0	 xcm -0.08911	 dxcal 0.02401	 cam01 42.9480
+stitch cal cam0	 ncnt 0	 xcm -0.11320
+stitch cal cam1 result ncnt 0	 xcm -0.08907	 dxcal 0.02414	 cam01 42.9479
+stitch cal cam0	 ncnt 0	 xcm -0.11319
+stitch cal cam1 result ncnt 0	 xcm -0.08916	 dxcal 0.02404	 cam01 42.9480
+stitch cal cam0	 ncnt 0	 xcm -0.11308
+stitch cal cam1 result ncnt 0	 xcm -0.08910	 dxcal 0.02398	 cam01 42.9480
+stitch cal cam0	 ncnt 0	 xcm -0.11308
+stitch cal cam1 result ncnt 0	 xcm -0.08912	 dxcal 0.02396	 cam01 42.9480
+stitch cal cam0	 ncnt 0	 xcm -0.11309
+stitch cal cam1 result ncnt 0	 xcm -0.08905	 dxcal 0.02404	 cam01 42.9480
+stitch cal cam0	 ncnt 0	 xcm -0.11320
+stitch cal cam1 result ncnt 0	 xcm -0.08905	 dxcal 0.02414	 cam01 42.9479
+stitch mes cam0 nxcv 8			 xcm 0.16465		1.51809	1.17935	0.84106	0.50280	0.16465	-0.17333	-0.51159	-0.84998	
+stitch mes cam1 su_ix 1	  nfvbuf 8	 XCV=	1.91313	1.57438	1.23609	0.89783	0.55968	0.22170	-0.11656	-0.45494	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1646
+stitchdif hole# 0	 stitchdif 1.724335
+stitchdif hole# 1	 stitchdif 1.385593
+stitchdif hole# 2	 stitchdif 1.047306
+stitchdif hole# 3	 stitchdif 0.709042
+stitchdif hole# 4	 stitchdif 0.370888
+stitchdif hole# 5	 stitchdif 0.032913
+stitchdif hole# 6	 stitchdif -0.305347
+stitchdif hole# 7	 stitchdif -0.643734
+Cam1: best hole# 5	 stitchdif 0.032913
+best stitch 0.0329
+Results: dxtest 0.05706	 Cam01 42.94786	 Stitch 43.00491
+stitch cal cam0	 ncnt 0	 xcm -0.10652
+stitch cal cam1 result ncnt 0	 xcm -0.08246	 dxcal 0.02406	 cam01 42.9479
+stitch cal cam0	 ncnt 0	 xcm -0.10663
+stitch cal cam1 result ncnt 0	 xcm -0.08276	 dxcal 0.02387	 cam01 42.9481
+stitch cal cam0	 ncnt 0	 xcm -0.10671
+stitch cal cam1 result ncnt 0	 xcm -0.08252	 dxcal 0.02420	 cam01 42.9478
+stitch cal cam0	 ncnt 0	 xcm -0.10672
+stitch cal cam1 result ncnt 0	 xcm -0.08258	 dxcal 0.02413	 cam01 42.9479
+stitch cal cam0	 ncnt 0	 xcm -0.10669
+stitch cal cam1 result ncnt 0	 xcm -0.08269	 dxcal 0.02400	 cam01 42.9480
+stitch cal cam0	 ncnt 0	 xcm -0.10664
+stitch cal cam1 result ncnt 0	 xcm -0.08255	 dxcal 0.02410	 cam01 42.9479
+stitch cal cam0	 ncnt 0	 xcm -0.10670
+stitch cal cam1 result ncnt 0	 xcm -0.08244	 dxcal 0.02425	 cam01 42.9478
+stitch cal cam0	 ncnt 0	 xcm -0.10668
+stitch cal cam1 result ncnt 0	 xcm -0.08272	 dxcal 0.02396	 cam01 42.9480
+stitch cal cam0	 ncnt 0	 xcm -0.10665
+stitch cal cam1 result ncnt 0	 xcm -0.08266	 dxcal 0.02399	 cam01 42.9480
+stitch cal cam0	 ncnt 0	 xcm -0.10669
+stitch cal cam1 result ncnt 0	 xcm -0.08277	 dxcal 0.02392	 cam01 42.9481
+stitch mes cam0 nxcv 8			 xcm 0.16271		1.51613	1.17733	0.83897	0.50075	0.16271	-0.17533	-0.51354	-0.85208	
+stitch mes cam1 su_ix 1	  nfvbuf 8	 XCV=	1.91116	1.57236	1.23401	0.89578	0.55774	0.21970	-0.11851	-0.45705	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1627
+stitchdif hole# 0	 stitchdif 1.724529
+stitchdif hole# 1	 stitchdif 1.385727
+stitchdif hole# 2	 stitchdif 1.047379
+stitchdif hole# 3	 stitchdif 0.709148
+stitchdif hole# 4	 stitchdif 0.371109
+stitchdif hole# 5	 stitchdif 0.033066
+stitchdif hole# 6	 stitchdif -0.305141
+stitchdif hole# 7	 stitchdif -0.643677
+Cam1: best hole# 5	 stitchdif 0.033066
+best stitch 0.0331
+Results: dxtest 0.05699	 Cam01 42.94808	 Stitch 43.00507
+stitch cal cam0	 ncnt 0	 xcm -0.10933
+stitch cal cam1 result ncnt 0	 xcm -0.08526	 dxcal 0.02407	 cam01 42.9479
+stitch cal cam0	 ncnt 0	 xcm -0.10941
+stitch cal cam1 result ncnt 0	 xcm -0.08516	 dxcal 0.02426	 cam01 42.9477
+stitch cal cam0	 ncnt 0	 xcm -0.10937
+stitch cal cam1 result ncnt 0	 xcm -0.08531	 dxcal 0.02406	 cam01 42.9479
+stitch cal cam0	 ncnt 0	 xcm -0.10940
+stitch cal cam1 result ncnt 0	 xcm -0.08539	 dxcal 0.02401	 cam01 42.9480
+stitch cal cam0	 ncnt 0	 xcm -0.10946
+stitch cal cam1 result ncnt 0	 xcm -0.08551	 dxcal 0.02395	 cam01 42.9480
+stitch cal cam0	 ncnt 0	 xcm -0.10951
+stitch cal cam1 result ncnt 0	 xcm -0.08542	 dxcal 0.02409	 cam01 42.9479
+stitch cal cam0	 ncnt 0	 xcm -0.10953
+stitch cal cam1 result ncnt 0	 xcm -0.08538	 dxcal 0.02416	 cam01 42.9478
+stitch cal cam0	 ncnt 0	 xcm -0.10948
+stitch cal cam1 result ncnt 0	 xcm -0.08540	 dxcal 0.02408	 cam01 42.9479
+stitch cal cam0	 ncnt 0	 xcm -0.10944
+stitch cal cam1 result ncnt 0	 xcm -0.08539	 dxcal 0.02405	 cam01 42.9479
+stitch cal cam0	 ncnt 0	 xcm -0.10954
+stitch cal cam1 result ncnt 0	 xcm -0.08553	 dxcal 0.02402	 cam01 42.9480
+stitch mes cam0 nxcv 8			 xcm 0.16759		1.52086	1.18202	0.84382	0.50563	0.16759	-0.17046	-0.50871	-0.84705	
+stitch mes cam1 su_ix 1	  nfvbuf 8	 XCV=	1.91589	1.57705	1.23885	0.90066	0.56262	0.22457	-0.11368	-0.45201	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1676
+stitchdif hole# 0	 stitchdif 1.724285
+stitchdif hole# 1	 stitchdif 1.385448
+stitchdif hole# 2	 stitchdif 1.047249
+stitchdif hole# 3	 stitchdif 0.709061
+stitchdif hole# 4	 stitchdif 0.371014
+stitchdif hole# 5	 stitchdif 0.032967
+stitchdif hole# 6	 stitchdif -0.305279
+stitchdif hole# 7	 stitchdif -0.643616
+Cam1: best hole# 5	 stitchdif 0.032967
+best stitch 0.0330
+Results: dxtest 0.05699	 Cam01 42.94798	 Stitch 43.00497
+stitch cal cam0	 ncnt 0	 xcm -0.11573
+stitch cal cam1 result ncnt 0	 xcm -0.09171	 dxcal 0.02402	 cam01 42.9480
+stitch cal cam0	 ncnt 0	 xcm -0.11565
+stitch cal cam1 result ncnt 0	 xcm -0.09175	 dxcal 0.02390	 cam01 42.9481
+stitch cal cam0	 ncnt 0	 xcm -0.11576
+stitch cal cam1 result ncnt 0	 xcm -0.09175	 dxcal 0.02402	 cam01 42.9480
+stitch cal cam0	 ncnt 0	 xcm -0.11579
+stitch cal cam1 result ncnt 0	 xcm -0.09180	 dxcal 0.02399	 cam01 42.9480
+stitch cal cam0	 ncnt 0	 xcm -0.11578
+stitch cal cam1 result ncnt 0	 xcm -0.09185	 dxcal 0.02393	 cam01 42.9481
+stitch cal cam0	 ncnt 0	 xcm -0.11577
+stitch cal cam1 result ncnt 0	 xcm -0.09176	 dxcal 0.02400	 cam01 42.9480
+stitch cal cam0	 ncnt 0	 xcm -0.11583
+stitch cal cam1 result ncnt 0	 xcm -0.09172	 dxcal 0.02411	 cam01 42.9479
+stitch cal cam0	 ncnt 0	 xcm -0.11581
+stitch cal cam1 result ncnt 0	 xcm -0.09185	 dxcal 0.02396	 cam01 42.9480
+stitch cal cam0	 ncnt 0	 xcm -0.11579
+stitch cal cam1 result ncnt 0	 xcm -0.09187	 dxcal 0.02392	 cam01 42.9481
+stitch cal cam0	 ncnt 0	 xcm -0.11592
+stitch cal cam1 result ncnt 0	 xcm -0.09200	 dxcal 0.02392	 cam01 42.9481
+stitch mes cam0 nxcv 8			 xcm 0.16775		1.52123	1.18241	0.84404	0.50590	0.16775	-0.17023	-0.50850	-0.84693	
+stitch mes cam1 su_ix 1	  nfvbuf 8	 XCV=	1.91626	1.57744	1.23907	0.90093	0.56278	0.22480	-0.11347	-0.45190	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1678
+stitchdif hole# 0	 stitchdif 1.724586
+stitchdif hole# 1	 stitchdif 1.385765
+stitchdif hole# 2	 stitchdif 1.047398
+stitchdif hole# 3	 stitchdif 0.709259
+stitchdif hole# 4	 stitchdif 0.371109
+stitchdif hole# 5	 stitchdif 0.033131
+stitchdif hole# 6	 stitchdif -0.305141
+stitchdif hole# 7	 stitchdif -0.643570
+Cam1: best hole# 5	 stitchdif 0.033131
+best stitch 0.0331
+Results: dxtest 0.05705	 Cam01 42.94808	 Stitch 43.00513
+stitch cal cam0	 ncnt 0	 xcm -0.10210
+stitch cal cam1 result ncnt 0	 xcm -0.07824	 dxcal 0.02386	 cam01 42.9481
+stitch cal cam0	 ncnt 0	 xcm -0.10213
+stitch cal cam1 result ncnt 0	 xcm -0.07801	 dxcal 0.02412	 cam01 42.9479
+stitch cal cam0	 ncnt 0	 xcm -0.10217
+stitch cal cam1 result ncnt 0	 xcm -0.07820	 dxcal 0.02397	 cam01 42.9480
+stitch cal cam0	 ncnt 0	 xcm -0.10218
+stitch cal cam1 result ncnt 0	 xcm -0.07813	 dxcal 0.02405	 cam01 42.9480
+stitch cal cam0	 ncnt 0	 xcm -0.10211
+stitch cal cam1 result ncnt 0	 xcm -0.07816	 dxcal 0.02395	 cam01 42.9480
+stitch cal cam0	 ncnt 0	 xcm -0.10217
+stitch cal cam1 result ncnt 0	 xcm -0.07808	 dxcal 0.02408	 cam01 42.9479
+stitch cal cam0	 ncnt 0	 xcm -0.10215
+stitch cal cam1 result ncnt 0	 xcm -0.07808	 dxcal 0.02407	 cam01 42.9479
+stitch cal cam0	 ncnt 0	 xcm -0.10216
+stitch cal cam1 result ncnt 0	 xcm -0.07820	 dxcal 0.02396	 cam01 42.9480
+stitch cal cam0	 ncnt 0	 xcm -0.10214
+stitch cal cam1 result ncnt 0	 xcm -0.07821	 dxcal 0.02393	 cam01 42.9481
+stitch cal cam0	 ncnt 0	 xcm -0.10220
+stitch cal cam1 result ncnt 0	 xcm -0.07813	 dxcal 0.02407	 cam01 42.9479
+stitch mes cam0 nxcv 8			 xcm 0.16643		1.51979	1.18099	0.84273	0.50449	-0.17152	0.16643	-0.50973	-0.84802	
+stitch mes cam1 su_ix 1	  nfvbuf 8	 XCV=	1.91482	1.57602	1.23777	0.89952	0.22351	0.56146	-0.11470	-0.45299	
+
+irepeat cam0 # 0	 idistmin 5	 xcv 0.1664
+stitchdif hole# 0	 stitchdif 1.724331
+stitchdif hole# 1	 stitchdif 1.385532
+stitchdif hole# 2	 stitchdif 1.047272
+stitchdif hole# 3	 stitchdif 0.709026
+stitchdif hole# 4	 stitchdif 0.033020
+stitchdif hole# 5	 stitchdif 0.370964
+stitchdif hole# 6	 stitchdif -0.305191
+stitchdif hole# 7	 stitchdif -0.643482
+Cam1: best hole# 4	 stitchdif 0.033020
+best stitch 0.0330
+Results: dxtest 0.05709	 Cam01 42.94793	 Stitch 43.00502
+stitch cal cam0	 ncnt 0	 xcm -0.10510
+stitch cal cam1 result ncnt 0	 xcm -0.08092	 dxcal 0.02418	 cam01 42.9478
+stitch cal cam0	 ncnt 0	 xcm -0.10501
+stitch cal cam1 result ncnt 0	 xcm -0.08103	 dxcal 0.02398	 cam01 42.9480
+stitch cal cam0	 ncnt 0	 xcm -0.10492
+stitch cal cam1 result ncnt 0	 xcm -0.08112	 dxcal 0.02380	 cam01 42.9482
+stitch cal cam0	 ncnt 0	 xcm -0.10504
+stitch cal cam1 result ncnt 0	 xcm -0.08090	 dxcal 0.02414	 cam01 42.9479
+stitch cal cam0	 ncnt 0	 xcm -0.10491
+stitch cal cam1 result ncnt 0	 xcm -0.08104	 dxcal 0.02387	 cam01 42.9481
+stitch cal cam0	 ncnt 0	 xcm -0.10506
+stitch cal cam1 result ncnt 0	 xcm -0.08112	 dxcal 0.02394	 cam01 42.9481
+stitch cal cam0	 ncnt 0	 xcm -0.10499
+stitch cal cam1 result ncnt 0	 xcm -0.08091	 dxcal 0.02408	 cam01 42.9479
+stitch cal cam0	 ncnt 0	 xcm -0.10491
+stitch cal cam1 result ncnt 0	 xcm -0.08109	 dxcal 0.02382	 cam01 42.9482
+stitch cal cam0	 ncnt 0	 xcm -0.10494
+stitch cal cam1 result ncnt 0	 xcm -0.08094	 dxcal 0.02400	 cam01 42.9480
+stitch cal cam0	 ncnt 0	 xcm -0.10498
+stitch cal cam1 result ncnt 0	 xcm -0.08108	 dxcal 0.02390	 cam01 42.9481
+stitch mes cam0 nxcv 8			 xcm 0.16587		1.18046	1.51922	0.84218	0.50397	0.16587	-0.17209	-0.51032	-0.84868	
+stitch mes cam1 su_ix 1	  nfvbuf 8	 XCV=	1.57549	1.91425	1.23722	0.89900	0.56090	0.22294	-0.11529	-0.45365	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1659
+stitchdif hole# 0	 stitchdif 1.385723
+stitchdif hole# 1	 stitchdif 1.724483
+stitchdif hole# 2	 stitchdif 1.047447
+stitchdif hole# 3	 stitchdif 0.709232
+stitchdif hole# 4	 stitchdif 0.371132
+stitchdif hole# 5	 stitchdif 0.033176
+stitchdif hole# 6	 stitchdif -0.305061
+stitchdif hole# 7	 stitchdif -0.643421
+Cam1: best hole# 5	 stitchdif 0.033176
+best stitch 0.0332
+Results: dxtest 0.05707	 Cam01 42.94810	 Stitch 43.00518
+stitch cal cam0	 ncnt 0	 xcm -0.11563
+stitch cal cam1 result ncnt 0	 xcm -0.09158	 dxcal 0.02405	 cam01 42.9479
+stitch cal cam0	 ncnt 0	 xcm -0.11576
+stitch cal cam1 result ncnt 0	 xcm -0.09173	 dxcal 0.02403	 cam01 42.9480
+stitch cal cam0	 ncnt 0	 xcm -0.11560
+stitch cal cam1 result ncnt 0	 xcm -0.09177	 dxcal 0.02383	 cam01 42.9482
+stitch cal cam0	 ncnt 0	 xcm -0.11568
+stitch cal cam1 result ncnt 0	 xcm -0.09165	 dxcal 0.02402	 cam01 42.9480
+stitch cal cam0	 ncnt 0	 xcm -0.11566
+stitch cal cam1 result ncnt 0	 xcm -0.09172	 dxcal 0.02394	 cam01 42.9481
+stitch cal cam0	 ncnt 0	 xcm -0.11569
+stitch cal cam1 result ncnt 0	 xcm -0.09171	 dxcal 0.02398	 cam01 42.9480
+stitch cal cam0	 ncnt 0	 xcm -0.11572
+stitch cal cam1 result ncnt 0	 xcm -0.09169	 dxcal 0.02404	 cam01 42.9480
+stitch cal cam0	 ncnt 0	 xcm -0.11567
+stitch cal cam1 result ncnt 0	 xcm -0.09173	 dxcal 0.02394	 cam01 42.9481
+stitch cal cam0	 ncnt 0	 xcm -0.11575
+stitch cal cam1 result ncnt 0	 xcm -0.09174	 dxcal 0.02401	 cam01 42.9480
+stitch cal cam0	 ncnt 0	 xcm -0.11564
+stitch cal cam1 result ncnt 0	 xcm -0.09174	 dxcal 0.02390	 cam01 42.9481
+stitch mes cam0 nxcv 8			 xcm 0.16699		1.52038	1.18161	0.84326	0.50509	0.16699	-0.50928	-0.17109	-0.84781	
+stitch mes cam1 su_ix 1	  nfvbuf 8	 XCV=	1.91541	1.57664	1.23829	0.90012	0.56202	-0.11425	0.22395	-0.45278	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1670
+stitchdif hole# 0	 stitchdif 1.724518
+stitchdif hole# 1	 stitchdif 1.385746
+stitchdif hole# 2	 stitchdif 1.047394
+stitchdif hole# 3	 stitchdif 0.709225
+stitchdif hole# 4	 stitchdif 0.371128
+stitchdif hole# 5	 stitchdif -0.305145
+stitchdif hole# 6	 stitchdif 0.033051
+stitchdif hole# 7	 stitchdif -0.643669
+Cam1: best hole# 6	 stitchdif 0.033051
+best stitch 0.0331
+Results: dxtest 0.05695	 Cam01 42.94810	 Stitch 43.00505
+stitch cal cam0	 ncnt 0	 xcm -0.11535
+stitch cal cam1 result ncnt 0	 xcm -0.09160	 dxcal 0.02375	 cam01 42.9482
+stitch cal cam0	 ncnt 0	 xcm -0.11548
+stitch cal cam1 result ncnt 0	 xcm -0.09171	 dxcal 0.02376	 cam01 42.9482
+stitch cal cam0	 ncnt 0	 xcm -0.11548
+stitch cal cam1 result ncnt 0	 xcm -0.09165	 dxcal 0.02383	 cam01 42.9482
+stitch cal cam0	 ncnt 0	 xcm -0.11548
+stitch cal cam1 result ncnt 0	 xcm -0.09171	 dxcal 0.02377	 cam01 42.9482
+stitch cal cam0	 ncnt 0	 xcm -0.11549
+stitch cal cam1 result ncnt 0	 xcm -0.09181	 dxcal 0.02367	 cam01 42.9483
+stitch cal cam0	 ncnt 0	 xcm -0.11548
+stitch cal cam1 result ncnt 0	 xcm -0.09163	 dxcal 0.02384	 cam01 42.9482
+stitch cal cam0	 ncnt 0	 xcm -0.11549
+stitch cal cam1 result ncnt 0	 xcm -0.09156	 dxcal 0.02393	 cam01 42.9481
+stitch cal cam0	 ncnt 0	 xcm -0.11552
+stitch cal cam1 result ncnt 0	 xcm -0.09155	 dxcal 0.02397	 cam01 42.9480
+stitch cal cam0	 ncnt 0	 xcm -0.11544
+stitch cal cam1 result ncnt 0	 xcm -0.09144	 dxcal 0.02400	 cam01 42.9480
+stitch cal cam0	 ncnt 0	 xcm -0.11551
+stitch cal cam1 result ncnt 0	 xcm -0.09164	 dxcal 0.02386	 cam01 42.9481
+stitch mes cam0 nxcv 8			 xcm 0.16834		1.52171	1.18298	0.84471	0.50648	0.16834	-0.16963	-0.50789	-0.84623	
+stitch mes cam1 su_ix 1	  nfvbuf 8	 XCV=	1.91674	1.57801	1.23974	0.90151	0.56337	0.22540	-0.11286	-0.45120	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1683
+stitchdif hole# 0	 stitchdif 1.724537
+stitchdif hole# 1	 stitchdif 1.385799
+stitchdif hole# 2	 stitchdif 1.047535
+stitchdif hole# 3	 stitchdif 0.709301
+stitchdif hole# 4	 stitchdif 0.371166
+stitchdif hole# 5	 stitchdif 0.033192
+stitchdif hole# 6	 stitchdif -0.305065
+stitchdif hole# 7	 stitchdif -0.643406
+Cam1: best hole# 5	 stitchdif 0.033192
+best stitch 0.0332
+Results: dxtest 0.05706	 Cam01 42.94814	 Stitch 43.00519
+stitch cal cam0	 ncnt 0	 xcm -0.11108
+stitch cal cam1 result ncnt 0	 xcm -0.08699	 dxcal 0.02409	 cam01 42.9479
+stitch cal cam0	 ncnt 0	 xcm -0.11092
+stitch cal cam1 result ncnt 0	 xcm -0.08709	 dxcal 0.02383	 cam01 42.9482
+stitch cal cam0	 ncnt 0	 xcm -0.11119
+stitch cal cam1 result ncnt 0	 xcm -0.08726	 dxcal 0.02394	 cam01 42.9481
+stitch cal cam0	 ncnt 0	 xcm -0.11113
+stitch cal cam1 result ncnt 0	 xcm -0.08718	 dxcal 0.02395	 cam01 42.9481
+stitch cal cam0	 ncnt 0	 xcm -0.11119
+stitch cal cam1 result ncnt 0	 xcm -0.08729	 dxcal 0.02390	 cam01 42.9481
+stitch cal cam0	 ncnt 0	 xcm -0.11110
+stitch cal cam1 result ncnt 0	 xcm -0.08730	 dxcal 0.02380	 cam01 42.9482
+stitch cal cam0	 ncnt 0	 xcm -0.11122
+stitch cal cam1 result ncnt 0	 xcm -0.08733	 dxcal 0.02389	 cam01 42.9481
+stitch cal cam0	 ncnt 0	 xcm -0.11116
+stitch cal cam1 result ncnt 0	 xcm -0.08733	 dxcal 0.02383	 cam01 42.9482
+stitch cal cam0	 ncnt 0	 xcm -0.11117
+stitch cal cam1 result ncnt 0	 xcm -0.08737	 dxcal 0.02381	 cam01 42.9482
+stitch cal cam0	 ncnt 0	 xcm -0.11112
+stitch cal cam1 result ncnt 0	 xcm -0.08733	 dxcal 0.02379	 cam01 42.9482
+stitch mes cam0 nxcv 8			 xcm 0.16640		1.51982	1.18104	0.84270	0.50445	-0.17165	0.16640	-0.50993	-0.84836	
+stitch mes cam1 su_ix 1	  nfvbuf 8	 XCV=	1.91485	1.57607	1.23773	0.89948	0.22338	0.56143	-0.11490	-0.45333	
+
+irepeat cam0 # 0	 idistmin 5	 xcv 0.1664
+stitchdif hole# 0	 stitchdif 1.724663
+stitchdif hole# 1	 stitchdif 1.385880
+stitchdif hole# 2	 stitchdif 1.047543
+stitchdif hole# 3	 stitchdif 0.709290
+stitchdif hole# 4	 stitchdif 0.033188
+stitchdif hole# 5	 stitchdif 0.371239
+stitchdif hole# 6	 stitchdif -0.305092
+stitchdif hole# 7	 stitchdif -0.643520
+Cam1: best hole# 4	 stitchdif 0.033188
+best stitch 0.0332
+Results: dxtest 0.05698	 Cam01 42.94821	 Stitch 43.00519
+stitch cal cam0	 ncnt 0	 xcm -0.11259
+stitch cal cam1 result ncnt 0	 xcm -0.08864	 dxcal 0.02395	 cam01 42.9480
+stitch cal cam0	 ncnt 0	 xcm -0.11272
+stitch cal cam1 result ncnt 0	 xcm -0.08877	 dxcal 0.02395	 cam01 42.9480
+stitch cal cam0	 ncnt 0	 xcm -0.11271
+stitch cal cam1 result ncnt 0	 xcm -0.08882	 dxcal 0.02389	 cam01 42.9481
+stitch cal cam0	 ncnt 0	 xcm -0.11279
+stitch cal cam1 result ncnt 0	 xcm -0.08885	 dxcal 0.02394	 cam01 42.9481
+stitch cal cam0	 ncnt 0	 xcm -0.11280
+stitch cal cam1 result ncnt 0	 xcm -0.08893	 dxcal 0.02387	 cam01 42.9481
+stitch cal cam0	 ncnt 0	 xcm -0.11282
+stitch cal cam1 result ncnt 0	 xcm -0.08883	 dxcal 0.02399	 cam01 42.9480
+stitch cal cam0	 ncnt 0	 xcm -0.11269
+stitch cal cam1 result ncnt 0	 xcm -0.08890	 dxcal 0.02379	 cam01 42.9482
+stitch cal cam0	 ncnt 0	 xcm -0.11274
+stitch cal cam1 result ncnt 0	 xcm -0.08900	 dxcal 0.02374	 cam01 42.9483
+stitch cal cam0	 ncnt 0	 xcm -0.11270
+stitch cal cam1 result ncnt 0	 xcm -0.08889	 dxcal 0.02381	 cam01 42.9482
+stitch cal cam0	 ncnt 0	 xcm -0.11283
+stitch cal cam1 result ncnt 0	 xcm -0.08884	 dxcal 0.02399	 cam01 42.9480
+stitch mes cam0 nxcv 8			 xcm -0.16805		1.52328	1.18449	0.84617	0.50790	-0.16805	0.16989	-0.50632	-0.84464	
+stitch mes cam1 su_ix 1	  nfvbuf 8	 XCV=	1.91831	1.57952	1.24121	0.90293	0.22698	0.56492	-0.11129	-0.44961	
+
+irepeat cam0 # 0	 idistmin 4	 xcv -0.1681
+stitchdif hole# 0	 stitchdif 2.062366
+stitchdif hole# 1	 stitchdif 1.723579
+stitchdif hole# 2	 stitchdif 1.385262
+stitchdif hole# 3	 stitchdif 1.046989
+stitchdif hole# 4	 stitchdif 0.371037
+stitchdif hole# 5	 stitchdif 0.708981
+stitchdif hole# 6	 stitchdif 0.032764
+stitchdif hole# 7	 stitchdif -0.305557
+Cam1: best hole# 6	 stitchdif 0.032764
+best stitch 0.0328
+Results: dxtest 0.05676	 Cam01 42.94801	 Stitch 43.00476

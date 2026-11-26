@@ -1,0 +1,215 @@
+;               CNFG.PRM
+;               ========
+;               ABOS parameter declaration file
+;               contains all configurable parameters of the ".CFG" files
+;               format of file:
+;               1. number: parametercode
+;               2. string: parameter line identifier
+;               3. string: argument format string:
+;                  I,i: integer
+;                  X,x: hexadecimal integer
+;                  K,k: short integer ('kurz')
+;                  H,h: short hexadecimal integer
+;                  B,b: binary (32 bit, leading zeros may be omitted)
+;                  F,f: float
+;                  S,s: string; all characters up to the next ' ', ',' or '\n'
+;                  T,t: text; all characters up to the next '\n'
+;                       s and t are followed by an integer designating the
+;                       maximum length of the string / text.
+;                  N,n: new line; parameters are splitted to next line
+;                  #  : running number for more than one similar parameter
+;                       sets with the same line identifier.
+;                  capital letters designate mandatory, small letters optional
+;                  parameters!
+;
+;
+;===========================================================================
+;
+1  ver         IIS64
+;
+2  dimension   FFFFFFFFFFFFFFFFFFS12FS12FFFFFFFF
+;
+4  edge_1      IIIIIIF
+;
+5  edge_2      IIFIIIIFFII
+;
+6  flags       IIIIIIIIBIBIBII
+;
+7  glue        IIIIFIIII
+;
+8  icmp1       IIIIIIIIIIII
+;
+9  limits      FFFFI
+;
+10 lmb         IIIIIIFFIIFFFFFFFFFFFF
+;
+11 report      S40INT200NT200NT200NS20
+;
+12 color       XXXXXXXXXX
+;
+14 wire        IIIIIIIIIIIFFFIF
+;
+15 zshade      IIIIIIFIIIIIiiiiiiiiiiiiiiiiiiiiiiiiiiii
+;
+16 zwire       IIIIIIIIIII
+;
+17 stefan      IB
+;
+18 objmess     IIIIIIIII
+;
+19 class       #IIFFf
+;
+21 mot         #XIIIIIS2FS12S12IIIIIIIIIIS128S128
+;
+22 xyztable    IIIIIIIIIIIII
+;
+23 lfix        IBBIIIIIIIIIIXIIIIIIIIIIIIIIIIIIII
+;
+24 discomap    IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+;
+26 diode       IIIIIIIFIIIIIIIIIIIIIIFFFFFFIIFIIIIIIIIFIIIIIIIIIIIIIIIIFFIIIIIII
+;
+27 zpar        IIIIIIIIIIIIIIFFIIIFFFF
+;
+28 disco       #XXXXXXXXXXXXXXXXXXXXXT12
+;
+29 fvlim       #IFFFF
+;
+30 errdens     IIIIIIII
+;
+31 cyto        IIFIIIIIFFIFFIIFIIIIXIIIXI
+;
+35 bond_pass   #BIII
+;
+38 dci_par     IFIIIFIIIIIFIIIIIIIIIFFFFFFFFIIIIIIIIIIIIIIIIIIIIIFIFFFIIIIFIIIIIIIIIIIIFFFIFIIII
+;
+39 badpix      #IIIIII
+;
+40 rca         IXIIIIIFFFIIFIIFIIIIFFIIIII
+;
+41 bofin       IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIFFFFFFFFFFFFFFFF
+;
+42 max         IIIIIIIIIIIIII
+;
+43 teves       IIIIFFFIIFFIFFII
+;
+44 walter      I
+;
+46 kurt        X
+;
+47 printer     IIIIIIIIII
+;
+48 polaroid    fffffff
+;
+49 card_par    IIIIIIIIII
+;
+50 mtrla       IIIIIIIIFXXX
+;
+51 cmdflt      #S32XI
+;
+52 vmfgcfg     #IIIIIIIIIIIIIFFIS64
+;
+53 ctcpar      XXXXXXXXX
+;
+54 letch_par   XXIFIIIIIIIIFFFFIIIIIIIIIIIIFFIIIIIIIIIIFFFFFFFIIIIIIIIIIII
+;
+67 fed_par     IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+;
+68 fr_par     IFFFFIIIIIIIIIIIIIIIIIIIIIIIIIIFFF
+;
+69 st_par      IIIIFFFFFFIIIIFFFFFIIIIIIIIFFFFIIIIIXFFIIIIFFIIIIIIIIIIIFFFFIIIIIIIIIIIIIIIIIIII
+;
+70 phasedef    #IIIIIIIIIIIIIIS32
+;
+71 st_cal      #FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFS32
+;
+72 st_ixdev    #IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+;
+73 handler_dat IXXXX
+;
+74 gpunch      IIIIIIIIIII
+;
+75 mesmenu     #XIIIIS64
+;
+77 st_par2     FIIIIIIIIIIIII
+;
+78 bga_par     IIIIIIFFFFFIFFIFFFF
+;
+79 qfp_par     IFFFFFFFFIFFFFFFIIIFFII
+;
+80 disp_par    IIIIIIIIIIIIIIFIIII
+;
+81 testmode    III
+;
+82 ivo_par     IIIIIIIIIIIIIFIIIFFFFFFIIIIIIIIIIIIFIII
+;
+83 ivo_cal     FFFFFFFF
+;
+84 ivo_pos     IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+;
+85 lens_par    IF
+;
+86 rlx_par     IIII
+;
+87 ivo_z       FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+;
+88 trs_par     IIIIIIIIIIIIIIFFFFFFFIIIIFFIII
+;
+89 pwl         #II
+;
+90 hdl_mot     #IIIIIIIIIS64
+;
+91 hdl_point   #IIIIIIIIIIIS64
+;
+92 hdl_in      #IIIIS64
+;
+93 hdl_out     #IIIIS64
+;
+94 hdl_modul   #IIIIIIIIS64
+;
+95 hdl_var     #IIIIIIS64
+;
+96 sequ_par    IIIIIII
+;
+97 hdl_par     III
+;
+98 hdl_packet  #IIIIIS64
+;
+99 pcor_par    IIIIIIIFFFFFFI
+;
+100 path       #S64
+;
+101 comment    S64
+;
+102 dbi_par    IIIIIIIIIIIIIIIIIIIIIIIIIIIFFIIIIIIIII
+;
+103 wbi_par    II
+;
+104 enc_par    IIIIFIIII
+;
+105 hdl_fcn    #IIIS64
+;
+106 objmes_par IIFFFF
+;
+109 caldiepos  #FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+;
+110 onlinegraphic IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+;
+112 imrotmir   XXXXXXXX
+;
+113 shadingdat #iiiii
+;
+116 usbio      #IIII
+;
+117 contgrab   IFFFFIIIIIIII
+;
+123 system_par IIIIII
+;
+124 barcode    IIIIIIIIII
+;
+125 delays     IIIIIIIIII
+;
+
+
+
+

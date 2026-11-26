@@ -1,0 +1,1723 @@
+
+Testmode protocol of session Date=Mon Oct 08 16:29:49 2018
+
+stitch cal cam0	 ncnt 0	 xcm -0.02844
+stitch cal cam1 result ncnt 0	 xcm -0.00633	 dxcal 0.02211	 cam01 42.9499
+stitch cal cam0	 ncnt 0	 xcm -0.02895
+stitch cal cam1 result ncnt 0	 xcm -0.00679	 dxcal 0.02216	 cam01 42.9498
+stitch cal cam0	 ncnt 0	 xcm -0.02908
+stitch cal cam1 result ncnt 0	 xcm -0.00685	 dxcal 0.02223	 cam01 42.9498
+stitch cal cam0	 ncnt 0	 xcm -0.02909
+stitch cal cam1 result ncnt 0	 xcm -0.00693	 dxcal 0.02216	 cam01 42.9498
+stitch cal cam0	 ncnt 0	 xcm -0.02916
+stitch cal cam1 result ncnt 0	 xcm -0.00718	 dxcal 0.02198	 cam01 42.9500
+stitch cal cam0	 ncnt 0	 xcm -0.02919
+stitch cal cam1 result ncnt 0	 xcm -0.00721	 dxcal 0.02197	 cam01 42.9500
+stitch cal cam0	 ncnt 0	 xcm -0.02916
+stitch cal cam1 result ncnt 0	 xcm -0.00726	 dxcal 0.02190	 cam01 42.9501
+stitch cal cam0	 ncnt 0	 xcm -0.02924
+stitch cal cam1 result ncnt 0	 xcm -0.00727	 dxcal 0.02197	 cam01 42.9500
+stitch cal cam0	 ncnt 0	 xcm -0.02916
+stitch cal cam1 result ncnt 0	 xcm -0.00729	 dxcal 0.02187	 cam01 42.9501
+stitch cal cam0	 ncnt 0	 xcm -0.02927
+stitch cal cam1 result ncnt 0	 xcm -0.00746	 dxcal 0.02181	 cam01 42.9502
+stitch mes cam0 nxcv 8			 xcm 0.16757		1.52092	1.18210	0.84385	0.50563	0.16757	-0.17043	-0.50865	-0.84701	
+stitch mes cam1 su_ix 1	  nfvbuf 8	 XCV=	1.74268	1.40386	1.06561	0.72739	0.38933	0.05133	-0.28689	-0.62525	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1676
+stitchdif hole# 0	 stitchdif 1.553303
+stitchdif hole# 1	 stitchdif 1.214478
+stitchdif hole# 2	 stitchdif 0.876232
+stitchdif hole# 3	 stitchdif 0.538006
+stitchdif hole# 4	 stitchdif 0.199947
+stitchdif hole# 5	 stitchdif -0.138054
+stitchdif hole# 6	 stitchdif -0.476273
+stitchdif hole# 7	 stitchdif -0.814632
+Cam1: best hole# 5	 stitchdif 0.138054
+best stitchdifmin 0.1381	 dxtest -0.11624	 stitch 42.83395
+Results: dxtest -0.11624	 Cam01 42.95019	 Stitch 42.83395
+stitch mes cam0 nxcv 8			 xcm 0.16791		1.52151	1.18269	0.84433	0.50609	0.16791	-0.17015	-0.50843	-0.84690	
+stitch mes cam1 su_ix 24	  nfvbuf 8	 XCV=	1.74327	1.40445	1.06609	0.72785	0.38967	0.05161	-0.28667	-0.62514	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1679
+stitchdif hole# 0	 stitchdif 1.553551
+stitchdif hole# 1	 stitchdif 1.214722
+stitchdif hole# 2	 stitchdif 0.876366
+stitchdif hole# 3	 stitchdif 0.538132
+stitchdif hole# 4	 stitchdif 0.199947
+stitchdif hole# 5	 stitchdif -0.138115
+stitchdif hole# 6	 stitchdif -0.476391
+stitchdif hole# 7	 stitchdif -0.814869
+Cam1: best hole# 5	 stitchdif 0.138115
+best stitchdifmin 0.1381	 dxtest -0.11630	 stitch 42.83389
+Results: dxtest -0.11630	 Cam01 42.95019	 Stitch 42.83389
+stitch mes cam0 nxcv 8			 xcm 0.16252		1.51559	1.17687	0.83857	0.50045	0.16252	-0.17547	-0.51360	-0.85208	
+stitch mes cam1 su_ix 1	  nfvbuf 8	 XCV=	1.73735	1.39863	1.06033	0.72221	0.38428	0.04629	-0.29184	-0.63032	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1625
+stitchdif hole# 0	 stitchdif 1.553009
+stitchdif hole# 1	 stitchdif 1.214294
+stitchdif hole# 2	 stitchdif 0.875992
+stitchdif hole# 3	 stitchdif 0.537876
+stitchdif hole# 4	 stitchdif 0.199947
+stitchdif hole# 5	 stitchdif -0.138050
+stitchdif hole# 6	 stitchdif -0.476173
+stitchdif hole# 7	 stitchdif -0.814655
+Cam1: best hole# 5	 stitchdif 0.138050
+best stitchdifmin 0.1381	 dxtest -0.11624	 stitch 42.83395
+Results: dxtest -0.11624	 Cam01 42.95019	 Stitch 42.83395
+stitch mes cam0 nxcv 8			 xcm 0.16551		1.51892	1.18008	0.84187	0.50355	0.16551	-0.17258	-0.51073	-0.84917	
+stitch mes cam1 su_ix 24	  nfvbuf 8	 XCV=	1.74068	1.40184	1.06363	0.72531	0.38727	0.04918	-0.28897	-0.62741	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1655
+stitchdif hole# 0	 stitchdif 1.553356
+stitchdif hole# 1	 stitchdif 1.214512
+stitchdif hole# 2	 stitchdif 0.876308
+stitchdif hole# 3	 stitchdif 0.537983
+stitchdif hole# 4	 stitchdif 0.199947
+stitchdif hole# 5	 stitchdif -0.138149
+stitchdif hole# 6	 stitchdif -0.476295
+stitchdif hole# 7	 stitchdif -0.814739
+Cam1: best hole# 5	 stitchdif 0.138149
+best stitchdifmin 0.1381	 dxtest -0.11634	 stitch 42.83385
+Results: dxtest -0.11634	 Cam01 42.95019	 Stitch 42.83385
+stitch mes cam0 nxcv 8			 xcm -0.16666		1.52495	1.18615	0.84777	0.50952	0.17146	-0.16666	-0.50478	-0.84328	
+stitch mes cam1 su_ix 1	  nfvbuf 8	 XCV=	1.74671	1.40791	1.06953	0.73128	0.39322	0.05510	-0.28302	-0.62152	
+
+irepeat cam0 # 0	 idistmin 5	 xcv -0.1667
+stitchdif hole# 0	 stitchdif 1.891560
+stitchdif hole# 1	 stitchdif 1.552757
+stitchdif hole# 2	 stitchdif 1.214375
+stitchdif hole# 3	 stitchdif 0.876122
+stitchdif hole# 4	 stitchdif 0.538063
+stitchdif hole# 5	 stitchdif 0.199947
+stitchdif hole# 6	 stitchdif -0.138176
+stitchdif hole# 7	 stitchdif -0.476669
+Cam1: best hole# 6	 stitchdif 0.138176
+best stitchdifmin 0.1382	 dxtest -0.11636	 stitch 42.83382
+Results: dxtest -0.11636	 Cam01 42.95019	 Stitch 42.83382
+stitch mes cam0 nxcv 8			 xcm -0.16876		1.52278	1.18392	0.84552	0.50739	0.16923	-0.16876	-0.50693	-0.84528	
+stitch mes cam1 su_ix 24	  nfvbuf 8	 XCV=	1.74454	1.40568	1.06728	0.72915	0.39099	0.05300	-0.28517	-0.62352	
+
+irepeat cam0 # 0	 idistmin 5	 xcv -0.1688
+stitchdif hole# 0	 stitchdif 1.891479
+stitchdif hole# 1	 stitchdif 1.552620
+stitchdif hole# 2	 stitchdif 1.214226
+stitchdif hole# 3	 stitchdif 0.876091
+stitchdif hole# 4	 stitchdif 0.537937
+stitchdif hole# 5	 stitchdif 0.199947
+stitchdif hole# 6	 stitchdif -0.138222
+stitchdif hole# 7	 stitchdif -0.476578
+Cam1: best hole# 6	 stitchdif 0.138222
+best stitchdifmin 0.1382	 dxtest -0.11641	 stitch 42.83378
+Results: dxtest -0.11641	 Cam01 42.95019	 Stitch 42.83378
+stitch mes cam0 nxcv 8			 xcm 0.16326		1.51642	1.17764	0.83932	0.50121	0.16326	-0.17471	-0.51286	-0.85128	
+stitch mes cam1 su_ix 1	  nfvbuf 8	 XCV=	1.73818	1.39940	1.06108	0.72297	0.38502	0.04705	-0.29110	-0.62952	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1633
+stitchdif hole# 0	 stitchdif 1.553116
+stitchdif hole# 1	 stitchdif 1.214325
+stitchdif hole# 2	 stitchdif 0.876011
+stitchdif hole# 3	 stitchdif 0.537899
+stitchdif hole# 4	 stitchdif 0.199947
+stitchdif hole# 5	 stitchdif -0.138016
+stitchdif hole# 6	 stitchdif -0.476162
+stitchdif hole# 7	 stitchdif -0.814587
+Cam1: best hole# 5	 stitchdif 0.138016
+best stitchdifmin 0.1380	 dxtest -0.11620	 stitch 42.83398
+Results: dxtest -0.11620	 Cam01 42.95019	 Stitch 42.83398
+stitch mes cam0 nxcv 9			 xcm 0.16542		1.51879	1.18006	0.84164	0.50345	0.16542	-0.17261	-0.51091	-0.84923	-0.60412	
+stitch mes cam1 su_ix 24	  nfvbuf 8	 XCV=	1.74055	1.40182	1.06340	0.72521	0.38718	0.04915	-0.28915	-0.62747	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1654
+stitchdif hole# 0	 stitchdif 1.553318
+stitchdif hole# 1	 stitchdif 1.214592
+stitchdif hole# 2	 stitchdif 0.876171
+stitchdif hole# 3	 stitchdif 0.537975
+stitchdif hole# 4	 stitchdif 0.199947
+stitchdif hole# 5	 stitchdif -0.138084
+stitchdif hole# 6	 stitchdif -0.476379
+stitchdif hole# 7	 stitchdif -0.814701
+Cam1: best hole# 5	 stitchdif 0.138084
+best stitchdifmin 0.1381	 dxtest -0.11627	 stitch 42.83392
+Results: dxtest -0.11627	 Cam01 42.95019	 Stitch 42.83392
+stitch cal cam0	 ncnt 0	 xcm -0.02543
+stitch cal cam1 result ncnt 0	 xcm -0.00245	 dxcal 0.02298	 cam01 42.9490
+stitch cal cam0	 ncnt 0	 xcm -0.02559
+stitch cal cam1 result ncnt 0	 xcm -0.00256	 dxcal 0.02303	 cam01 42.9490
+stitch cal cam0	 ncnt 0	 xcm -0.02556
+stitch cal cam1 result ncnt 0	 xcm -0.00257	 dxcal 0.02300	 cam01 42.9490
+stitch cal cam0	 ncnt 0	 xcm -0.02557
+stitch cal cam1 result ncnt 0	 xcm -0.00278	 dxcal 0.02280	 cam01 42.9492
+stitch cal cam0	 ncnt 0	 xcm -0.02564
+stitch cal cam1 result ncnt 0	 xcm -0.00279	 dxcal 0.02286	 cam01 42.9491
+stitch cal cam0	 ncnt 0	 xcm -0.02565
+stitch cal cam1 result ncnt 0	 xcm -0.00279	 dxcal 0.02287	 cam01 42.9491
+stitch cal cam0	 ncnt 0	 xcm -0.02565
+stitch cal cam1 result ncnt 0	 xcm -0.00278	 dxcal 0.02287	 cam01 42.9491
+stitch cal cam0	 ncnt 0	 xcm -0.02564
+stitch cal cam1 result ncnt 0	 xcm -0.00273	 dxcal 0.02291	 cam01 42.9491
+stitch cal cam0	 ncnt 0	 xcm -0.02567
+stitch cal cam1 result ncnt 0	 xcm -0.00270	 dxcal 0.02297	 cam01 42.9490
+stitch cal cam0	 ncnt 0	 xcm -0.02563
+stitch cal cam1 result ncnt 0	 xcm -0.00279	 dxcal 0.02284	 cam01 42.9492
+stitch mes cam0 nxcv 8			 xcm 0.16553		1.51862	1.17995	0.84160	0.50351	0.16553	-0.17242	-0.51059	-0.84883	
+stitch mes cam1 su_ix 1	  nfvbuf 8	 XCV=	1.91268	1.57402	1.23566	0.89757	0.55959	0.22165	-0.11653	-0.45476	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1655
+stitchdif hole# 0	 stitchdif 1.724304
+stitchdif hole# 1	 stitchdif 1.385643
+stitchdif hole# 2	 stitchdif 1.047291
+stitchdif hole# 3	 stitchdif 0.709198
+stitchdif hole# 4	 stitchdif 0.371223
+stitchdif hole# 5	 stitchdif 0.033272
+stitchdif hole# 6	 stitchdif -0.304901
+stitchdif hole# 7	 stitchdif -0.643135
+Cam1: best hole# 5	 stitchdif 0.033272
+best stitchdifmin 0.0333	 dxtest 0.05611	 stitch 43.00527
+Results: dxtest 0.05611	 Cam01 42.94916	 Stitch 43.00527
+stitch mes cam0 nxcv 8			 xcm 0.16423		1.51776	1.17894	0.84048	0.50245	0.16423	-0.17381	-0.51201	-0.85042	
+stitch mes cam1 su_ix 24	  nfvbuf 8	 XCV=	1.91183	1.57300	1.23455	0.89652	0.55829	0.22025	-0.11795	-0.45635	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1642
+stitchdif hole# 0	 stitchdif 1.724758
+stitchdif hole# 1	 stitchdif 1.385933
+stitchdif hole# 2	 stitchdif 1.047478
+stitchdif hole# 3	 stitchdif 0.709450
+stitchdif hole# 4	 stitchdif 0.371223
+stitchdif hole# 5	 stitchdif 0.033180
+stitchdif hole# 6	 stitchdif -0.305019
+stitchdif hole# 7	 stitchdif -0.643425
+Cam1: best hole# 5	 stitchdif 0.033180
+best stitchdifmin 0.0332	 dxtest 0.05602	 stitch 43.00518
+Results: dxtest 0.05602	 Cam01 42.94916	 Stitch 43.00518
+stitch mes cam0 nxcv 8			 xcm 0.16257		1.51567	1.17701	0.83874	0.50052	0.16257	-0.17542	-0.51343	-0.85186	
+stitch mes cam1 su_ix 1	  nfvbuf 8	 XCV=	1.90973	1.57108	1.23280	0.89458	0.55663	0.21865	-0.11937	-0.45779	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1626
+stitchdif hole# 0	 stitchdif 1.724319
+stitchdif hole# 1	 stitchdif 1.385670
+stitchdif hole# 2	 stitchdif 1.047394
+stitchdif hole# 3	 stitchdif 0.709175
+stitchdif hole# 4	 stitchdif 0.371223
+stitchdif hole# 5	 stitchdif 0.033237
+stitchdif hole# 6	 stitchdif -0.304779
+stitchdif hole# 7	 stitchdif -0.643204
+Cam1: best hole# 5	 stitchdif 0.033237
+best stitchdifmin 0.0332	 dxtest 0.05608	 stitch 43.00524
+Results: dxtest 0.05608	 Cam01 42.94916	 Stitch 43.00524
+stitch mes cam0 nxcv 8			 xcm 0.16231		1.51576	1.17689	0.83857	0.50024	0.16231	-0.17583	-0.51402	-0.85242	
+stitch mes cam1 su_ix 24	  nfvbuf 8	 XCV=	1.90982	1.57095	1.23263	0.89430	0.55638	0.21824	-0.11995	-0.45836	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1623
+stitchdif hole# 0	 stitchdif 1.724667
+stitchdif hole# 1	 stitchdif 1.385799
+stitchdif hole# 2	 stitchdif 1.047478
+stitchdif hole# 3	 stitchdif 0.709148
+stitchdif hole# 4	 stitchdif 0.371223
+stitchdif hole# 5	 stitchdif 0.033081
+stitchdif hole# 6	 stitchdif -0.305107
+stitchdif hole# 7	 stitchdif -0.643517
+Cam1: best hole# 5	 stitchdif 0.033081
+best stitchdifmin 0.0331	 dxtest 0.05592	 stitch 43.00508
+Results: dxtest 0.05592	 Cam01 42.94916	 Stitch 43.00508
+stitch mes cam0 nxcv 8			 xcm -0.16734		1.52418	1.18538	0.84703	0.50880	0.17074	-0.16734	-0.50543	-0.84392	
+stitch mes cam1 su_ix 1	  nfvbuf 8	 XCV=	1.91825	1.57944	1.24109	0.90286	0.56480	0.22672	-0.11136	-0.44985	
+
+irepeat cam0 # 0	 idistmin 5	 xcv -0.1673
+stitchdif hole# 0	 stitchdif 2.062748
+stitchdif hole# 1	 stitchdif 1.723946
+stitchdif hole# 2	 stitchdif 1.385590
+stitchdif hole# 3	 stitchdif 1.047363
+stitchdif hole# 4	 stitchdif 0.709305
+stitchdif hole# 5	 stitchdif 0.371223
+stitchdif hole# 6	 stitchdif 0.033138
+stitchdif hole# 7	 stitchdif -0.305351
+Cam1: best hole# 6	 stitchdif 0.033138
+best stitchdifmin 0.0331	 dxtest 0.05598	 stitch 43.00514
+Results: dxtest 0.05598	 Cam01 42.94916	 Stitch 43.00514
+stitch mes cam0 nxcv 8			 xcm 0.16715		1.52046	1.18171	0.84333	0.50524	0.16715	-0.17078	-0.50910	-0.84748	
+stitch mes cam1 su_ix 24	  nfvbuf 8	 XCV=	1.91452	1.57578	1.23739	0.89930	0.56122	0.22328	-0.11503	-0.45342	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1672
+stitchdif hole# 0	 stitchdif 1.724529
+stitchdif hole# 1	 stitchdif 1.385780
+stitchdif hole# 2	 stitchdif 1.047398
+stitchdif hole# 3	 stitchdif 0.709305
+stitchdif hole# 4	 stitchdif 0.371223
+stitchdif hole# 5	 stitchdif 0.033287
+stitchdif hole# 6	 stitchdif -0.305031
+stitchdif hole# 7	 stitchdif -0.643417
+Cam1: best hole# 5	 stitchdif 0.033287
+best stitchdifmin 0.0333	 dxtest 0.05613	 stitch 43.00529
+Results: dxtest 0.05613	 Cam01 42.94916	 Stitch 43.00529
+stitch mes cam0 nxcv 8			 xcm 0.16173		1.51485	1.17611	0.83783	0.49966	0.16173	-0.17622	-0.51436	-0.85271	
+stitch mes cam1 su_ix 1	  nfvbuf 8	 XCV=	1.90891	1.57017	1.23189	0.89372	0.55579	0.21784	-0.12030	-0.45865	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1617
+stitchdif hole# 0	 stitchdif 1.724342
+stitchdif hole# 1	 stitchdif 1.385601
+stitchdif hole# 2	 stitchdif 1.047325
+stitchdif hole# 3	 stitchdif 0.709152
+stitchdif hole# 4	 stitchdif 0.371223
+stitchdif hole# 5	 stitchdif 0.033272
+stitchdif hole# 6	 stitchdif -0.304871
+stitchdif hole# 7	 stitchdif -0.643223
+Cam1: best hole# 5	 stitchdif 0.033272
+best stitchdifmin 0.0333	 dxtest 0.05612	 stitch 43.00527
+Results: dxtest 0.05612	 Cam01 42.94916	 Stitch 43.00527
+stitch mes cam0 nxcv 9			 xcm 0.16628		1.51964	1.18096	0.84250	0.50430	0.16628	-0.17176	-0.51014	-0.84855	-0.60315	
+stitch mes cam1 su_ix 24	  nfvbuf 8	 XCV=	1.91370	1.57502	1.23657	0.89837	0.56034	0.22230	-0.11608	-0.45448	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1663
+stitchdif hole# 0	 stitchdif 1.724579
+stitchdif hole# 1	 stitchdif 1.385899
+stitchdif hole# 2	 stitchdif 1.047443
+stitchdif hole# 3	 stitchdif 0.709248
+stitchdif hole# 4	 stitchdif 0.371223
+stitchdif hole# 5	 stitchdif 0.033180
+stitchdif hole# 6	 stitchdif -0.305202
+stitchdif hole# 7	 stitchdif -0.643608
+Cam1: best hole# 5	 stitchdif 0.033180
+best stitchdifmin 0.0332	 dxtest 0.05602	 stitch 43.00518
+Results: dxtest 0.05602	 Cam01 42.94916	 Stitch 43.00518
+
+Testmode protocol of session Date=Tue Oct 09 09:12:27 2018
+
+stitch cal cam0	 ncnt 0	 xcm -0.00619
+stitch cal cam1 result ncnt 0	 xcm 0.01837	 dxcal 0.02456	 cam01 42.9474
+stitch cal cam0	 ncnt 0	 xcm -0.00651
+stitch cal cam1 result ncnt 0	 xcm 0.01808	 dxcal 0.02459	 cam01 42.9474
+stitch cal cam0	 ncnt 0	 xcm -0.00645
+stitch cal cam1 result ncnt 0	 xcm 0.01807	 dxcal 0.02452	 cam01 42.9475
+stitch cal cam0	 ncnt 0	 xcm -0.00645
+stitch cal cam1 result ncnt 0	 xcm 0.01806	 dxcal 0.02451	 cam01 42.9475
+stitch cal cam0	 ncnt 0	 xcm -0.00649
+stitch cal cam1 result ncnt 0	 xcm 0.01821	 dxcal 0.02470	 cam01 42.9473
+stitch cal cam0	 ncnt 0	 xcm -0.00651
+stitch cal cam1 result ncnt 0	 xcm 0.01806	 dxcal 0.02457	 cam01 42.9474
+stitch cal cam0	 ncnt 0	 xcm -0.00657
+stitch cal cam1 result ncnt 0	 xcm 0.01809	 dxcal 0.02466	 cam01 42.9473
+stitch cal cam0	 ncnt 0	 xcm -0.00653
+stitch cal cam1 result ncnt 0	 xcm 0.01803	 dxcal 0.02456	 cam01 42.9474
+stitch cal cam0	 ncnt 0	 xcm -0.00658
+stitch cal cam1 result ncnt 0	 xcm 0.01806	 dxcal 0.02464	 cam01 42.9474
+stitch cal cam0	 ncnt 0	 xcm -0.00649
+stitch cal cam1 result ncnt 0	 xcm 0.01800	 dxcal 0.02449	 cam01 42.9475
+stitch mes cam0 nxcv 8			 xcm 0.16547		1.51896	1.18009	0.84177	0.50359	0.16547	-0.17245	-0.51078	-0.84911	
+stitch mes cam1 su_ix 1	  nfvbuf 8	 XCV=	1.91690	1.57802	1.23971	0.90153	0.56341	0.22548	-0.11285	-0.45118	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1655
+stitchdif hole# 0	 stitchdif 1.726936
+stitchdif hole# 1	 stitchdif 1.388062
+stitchdif hole# 2	 stitchdif 1.049747
+stitchdif hole# 3	 stitchdif 0.711567
+stitchdif hole# 4	 stitchdif 0.373447
+stitchdif hole# 5	 stitchdif 0.035522
+stitchdif hole# 6	 stitchdif -0.302807
+stitchdif hole# 7	 stitchdif -0.641140
+Cam1: best hole# 5	 stitchdif 0.035522
+best stitchdifmin 0.0355	 dxtest 0.06001	 stitch 43.00752
+Results: dxtest 0.06001	 Cam01 42.94751	 Stitch 43.00752
+stitch mes cam0 nxcv 8			 xcm 0.16746		1.52118	1.18236	0.84398	0.50579	0.16746	-0.17059	-0.50884	-0.84738	
+stitch mes cam1 su_ix 24	  nfvbuf 8	 XCV=	1.91911	1.58030	1.24191	0.90373	0.56540	0.22735	-0.11090	-0.44944	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1675
+stitchdif hole# 0	 stitchdif 1.727158
+stitchdif hole# 1	 stitchdif 1.388344
+stitchdif hole# 2	 stitchdif 1.049957
+stitchdif hole# 3	 stitchdif 0.711773
+stitchdif hole# 4	 stitchdif 0.373447
+stitchdif hole# 5	 stitchdif 0.035397
+stitchdif hole# 6	 stitchdif -0.302853
+stitchdif hole# 7	 stitchdif -0.641396
+Cam1: best hole# 5	 stitchdif 0.035397
+best stitchdifmin 0.0354	 dxtest 0.05989	 stitch 43.00740
+Results: dxtest 0.05989	 Cam01 42.94751	 Stitch 43.00740
+stitch mes cam0 nxcv 8			 xcm 0.16233		1.51553	1.17678	0.83850	0.50033	0.16233	-0.17566	-0.51382	-0.85223	
+stitch mes cam1 su_ix 1	  nfvbuf 8	 XCV=	1.91346	1.57471	1.23643	0.89827	0.56027	0.22228	-0.11588	-0.45429	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1623
+stitchdif hole# 0	 stitchdif 1.726639
+stitchdif hole# 1	 stitchdif 1.387890
+stitchdif hole# 2	 stitchdif 1.049610
+stitchdif hole# 3	 stitchdif 0.711449
+stitchdif hole# 4	 stitchdif 0.373447
+stitchdif hole# 5	 stitchdif 0.035458
+stitchdif hole# 6	 stitchdif -0.302704
+stitchdif hole# 7	 stitchdif -0.641117
+Cam1: best hole# 5	 stitchdif 0.035458
+best stitchdifmin 0.0355	 dxtest 0.05995	 stitch 43.00746
+Results: dxtest 0.05995	 Cam01 42.94751	 Stitch 43.00746
+stitch mes cam0 nxcv 8			 xcm 0.16878		1.52226	1.18333	0.84502	0.50682	0.16878	-0.16938	-0.50752	-0.84592	
+stitch mes cam1 su_ix 24	  nfvbuf 8	 XCV=	1.92020	1.58126	1.24296	0.90475	0.56672	0.22856	-0.10959	-0.44799	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1688
+stitchdif hole# 0	 stitchdif 1.726925
+stitchdif hole# 1	 stitchdif 1.387989
+stitchdif hole# 2	 stitchdif 1.049683
+stitchdif hole# 3	 stitchdif 0.711479
+stitchdif hole# 4	 stitchdif 0.373447
+stitchdif hole# 5	 stitchdif 0.035286
+stitchdif hole# 6	 stitchdif -0.302864
+stitchdif hole# 7	 stitchdif -0.641262
+Cam1: best hole# 5	 stitchdif 0.035286
+best stitchdifmin 0.0353	 dxtest 0.05977	 stitch 43.00729
+Results: dxtest 0.05977	 Cam01 42.94751	 Stitch 43.00729
+stitch mes cam0 nxcv 13			 xcm -0.16707		-1.06532	-1.07771	-0.99391	-0.98180	-0.99307	1.52448	1.18571	0.84739	0.50917	0.17104	-0.16707	-0.50524	-0.84374	
+stitch mes cam1 su_ix 1	  nfvbuf 8	 XCV=	-0.66738	-0.67977	-0.59598	-0.58387	-0.59514	1.92242	1.58365	1.24533	
+
+irepeat cam0 # 0	 idistmin 10	 xcv -0.1671
+stitchdif hole# 0	 stitchdif -0.524807
+stitchdif hole# 1	 stitchdif -0.537197
+stitchdif hole# 2	 stitchdif -0.453400
+stitchdif hole# 3	 stitchdif -0.441292
+stitchdif hole# 4	 stitchdif -0.452560
+stitchdif hole# 5	 stitchdif 2.064991
+stitchdif hole# 6	 stitchdif 1.726223
+stitchdif hole# 7	 stitchdif 1.387901
+Cam1: best hole# 3	 stitchdif 0.441292
+
+irepeat cam0 # 1	 idistmin 9	 xcv 0.1710
+stitchdif hole# 0	 stitchdif -0.862907
+stitchdif hole# 1	 stitchdif -0.875301
+stitchdif hole# 2	 stitchdif -0.791504
+stitchdif hole# 3	 stitchdif -0.779396
+stitchdif hole# 4	 stitchdif -0.790665
+stitchdif hole# 5	 stitchdif 1.726887
+stitchdif hole# 6	 stitchdif 1.388119
+stitchdif hole# 7	 stitchdif 1.049797
+Cam1: best hole# 3	 stitchdif 0.779396
+
+irepeat cam0 # 2	 idistmin 11	 xcv -0.5052
+stitchdif hole# 0	 stitchdif -0.186626
+stitchdif hole# 1	 stitchdif -0.199020
+stitchdif hole# 2	 stitchdif -0.115223
+stitchdif hole# 3	 stitchdif -0.103115
+stitchdif hole# 4	 stitchdif -0.114384
+stitchdif hole# 5	 stitchdif 2.403168
+stitchdif hole# 6	 stitchdif 2.064400
+stitchdif hole# 7	 stitchdif 1.726078
+Cam1: best hole# 3	 stitchdif 0.103115
+best stitchdifmin 0.1031	 dxtest -0.07862	 stitch 42.86889
+Results: dxtest -0.07862	 Cam01 42.94751	 Stitch 42.86889
+stitch mes cam0 nxcv 8			 xcm 0.16851		1.52195	1.18318	0.84478	0.50665	0.16851	-0.16957	-0.50772	-0.84615	
+stitch mes cam1 su_ix 24	  nfvbuf 8	 XCV=	1.91988	1.58112	1.24271	0.90459	0.56644	0.22836	-0.10979	-0.44821	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1685
+stitchdif hole# 0	 stitchdif 1.726887
+stitchdif hole# 1	 stitchdif 1.388123
+stitchdif hole# 2	 stitchdif 1.049717
+stitchdif hole# 3	 stitchdif 0.711594
+stitchdif hole# 4	 stitchdif 0.373447
+stitchdif hole# 5	 stitchdif 0.035370
+stitchdif hole# 6	 stitchdif -0.302784
+stitchdif hole# 7	 stitchdif -0.641209
+Cam1: best hole# 5	 stitchdif 0.035370
+best stitchdifmin 0.0354	 dxtest 0.05986	 stitch 43.00737
+Results: dxtest 0.05986	 Cam01 42.94751	 Stitch 43.00737
+stitch mes cam0 nxcv 8			 xcm 0.16591		1.51905	1.18028	0.84203	0.50384	0.16591	-0.17206	-0.51019	-0.84860	
+stitch mes cam1 su_ix 1	  nfvbuf 8	 XCV=	1.91699	1.57821	1.23997	0.90178	0.56385	0.22588	-0.11225	-0.45067	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1659
+stitchdif hole# 0	 stitchdif 1.726593
+stitchdif hole# 1	 stitchdif 1.387810
+stitchdif hole# 2	 stitchdif 1.049568
+stitchdif hole# 3	 stitchdif 0.711376
+stitchdif hole# 4	 stitchdif 0.373447
+stitchdif hole# 5	 stitchdif 0.035477
+stitchdif hole# 6	 stitchdif -0.302650
+stitchdif hole# 7	 stitchdif -0.641068
+Cam1: best hole# 5	 stitchdif 0.035477
+best stitchdifmin 0.0355	 dxtest 0.05997	 stitch 43.00748
+Results: dxtest 0.05997	 Cam01 42.94751	 Stitch 43.00748
+stitch mes cam0 nxcv 8			 xcm -0.16901		1.52234	1.18364	0.84531	0.50715	0.16905	-0.16901	-0.50731	-0.84564	
+stitch mes cam1 su_ix 24	  nfvbuf 8	 XCV=	1.92028	1.58158	1.24325	0.90509	0.56699	0.22892	-0.10938	-0.44770	
+
+irepeat cam0 # 0	 idistmin 5	 xcv -0.1690
+stitchdif hole# 0	 stitchdif 2.064800
+stitchdif hole# 1	 stitchdif 1.726101
+stitchdif hole# 2	 stitchdif 1.387772
+stitchdif hole# 3	 stitchdif 1.049614
+stitchdif hole# 4	 stitchdif 0.711514
+stitchdif hole# 5	 stitchdif 0.373447
+stitchdif hole# 6	 stitchdif 0.035145
+stitchdif hole# 7	 stitchdif -0.303181
+Cam1: best hole# 6	 stitchdif 0.035145
+best stitchdifmin 0.0351	 dxtest 0.05963	 stitch 43.00714
+Results: dxtest 0.05963	 Cam01 42.94751	 Stitch 43.00714
+
+Testmode protocol of session Date=Tue Oct 09 09:38:45 2018
+
+
+Testmode protocol of session Date=Tue Oct 09 09:40:08 2018
+
+
+Testmode protocol of session Date=Tue Oct 09 09:41:34 2018
+
+
+Testmode protocol of session Date=Tue Oct 09 09:49:31 2018
+
+stitch cal cam0	 ncnt 0	 xcm -0.01252
+stitch cal cam1 result ncnt 0	 xcm 0.01135	 dxcal 0.02387	 cam01 42.9481
+stitch cal cam0	 ncnt 0	 xcm -0.01249
+stitch cal cam1 result ncnt 0	 xcm 0.01130	 dxcal 0.02378	 cam01 42.9482
+stitch cal cam0	 ncnt 0	 xcm -0.01256
+stitch cal cam1 result ncnt 0	 xcm 0.01125	 dxcal 0.02381	 cam01 42.9482
+stitch cal cam0	 ncnt 0	 xcm -0.01254
+stitch cal cam1 result ncnt 0	 xcm 0.01120	 dxcal 0.02374	 cam01 42.9483
+stitch cal cam0	 ncnt 0	 xcm -0.01256
+stitch cal cam1 result ncnt 0	 xcm 0.01131	 dxcal 0.02387	 cam01 42.9481
+stitch cal cam0	 ncnt 0	 xcm -0.01245
+stitch cal cam1 result ncnt 0	 xcm 0.01111	 dxcal 0.02355	 cam01 42.9484
+stitch cal cam0	 ncnt 0	 xcm -0.01245
+stitch cal cam1 result ncnt 0	 xcm 0.01144	 dxcal 0.02389	 cam01 42.9481
+stitch cal cam0	 ncnt 0	 xcm -0.01255
+stitch cal cam1 result ncnt 0	 xcm 0.01133	 dxcal 0.02388	 cam01 42.9481
+stitch cal cam0	 ncnt 0	 xcm -0.01254
+stitch cal cam1 result ncnt 0	 xcm 0.01135	 dxcal 0.02389	 cam01 42.9481
+stitch cal cam0	 ncnt 0	 xcm -0.01254
+stitch cal cam1 result ncnt 0	 xcm 0.01121	 dxcal 0.02374	 cam01 42.9483
+stitch mes cam0 nxcv 8			 xcm 0.15666		1.51097	1.17186	0.83345	0.49518	0.15666	-0.18126	-0.51968	-0.85829	
+stitch mes cam1 su_ix 1	  nfvbuf 8	 XCV=	1.90891	1.56980	1.23138	0.89312	0.55460	0.21668	-0.12174	-0.46035	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1567
+stitchdif hole# 0	 stitchdif 1.728504
+stitchdif hole# 1	 stitchdif 1.389397
+stitchdif hole# 2	 stitchdif 1.050980
+stitchdif hole# 3	 stitchdif 0.712711
+stitchdif hole# 4	 stitchdif 0.374195
+stitchdif hole# 5	 stitchdif 0.036278
+stitchdif hole# 6	 stitchdif -0.302143
+stitchdif hole# 7	 stitchdif -0.640759
+Cam1: best hole# 5	 stitchdif 0.036278
+best stitchdifmin 0.0363	 dxtest 0.06002	 stitch 43.00828
+Results: dxtest 0.06002	 Cam01 42.94826	 Stitch 43.00828
+stitch mes cam0 nxcv 8			 xcm 0.15634		1.51022	1.17132	0.83294	0.49457	0.15634	-0.18175	-0.52018	-0.85877	
+stitch mes cam1 su_ix 24	  nfvbuf 8	 XCV=	1.90815	1.56925	1.23088	0.89251	0.55428	0.21619	-0.12224	-0.46083	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1563
+stitchdif hole# 0	 stitchdif 1.728065
+stitchdif hole# 1	 stitchdif 1.389164
+stitchdif hole# 2	 stitchdif 1.050793
+stitchdif hole# 3	 stitchdif 0.712425
+stitchdif hole# 4	 stitchdif 0.374195
+stitchdif hole# 5	 stitchdif 0.036102
+stitchdif hole# 6	 stitchdif -0.302330
+stitchdif hole# 7	 stitchdif -0.640919
+Cam1: best hole# 5	 stitchdif 0.036102
+best stitchdifmin 0.0361	 dxtest 0.05985	 stitch 43.00810
+Results: dxtest 0.05985	 Cam01 42.94826	 Stitch 43.00810
+stitch mes cam0 nxcv 8			 xcm 0.15730		1.51081	1.17205	0.83362	0.49543	0.15730	-0.18076	-0.51907	-0.85752	
+stitch mes cam1 su_ix 1	  nfvbuf 8	 XCV=	1.90874	1.56998	1.23156	0.89337	0.55524	0.21718	-0.12113	-0.45958	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1573
+stitchdif hole# 0	 stitchdif 1.727695
+stitchdif hole# 1	 stitchdif 1.388939
+stitchdif hole# 2	 stitchdif 1.050510
+stitchdif hole# 3	 stitchdif 0.712326
+stitchdif hole# 4	 stitchdif 0.374195
+stitchdif hole# 5	 stitchdif 0.036133
+stitchdif hole# 6	 stitchdif -0.302174
+stitchdif hole# 7	 stitchdif -0.640629
+Cam1: best hole# 5	 stitchdif 0.036133
+best stitchdifmin 0.0361	 dxtest 0.05988	 stitch 43.00813
+Results: dxtest 0.05988	 Cam01 42.94826	 Stitch 43.00813
+stitch mes cam0 nxcv 8			 xcm 0.14973		1.50324	1.16437	0.82606	0.48777	0.14973	-0.18855	-0.52688	-0.86528	
+stitch mes cam1 su_ix 24	  nfvbuf 8	 XCV=	1.90117	1.56230	1.22399	0.88571	0.54767	0.20939	-0.12894	-0.46734	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1497
+stitchdif hole# 0	 stitchdif 1.727699
+stitchdif hole# 1	 stitchdif 1.388828
+stitchdif hole# 2	 stitchdif 1.050518
+stitchdif hole# 3	 stitchdif 0.712231
+stitchdif hole# 4	 stitchdif 0.374195
+stitchdif hole# 5	 stitchdif 0.035912
+stitchdif hole# 6	 stitchdif -0.302418
+stitchdif hole# 7	 stitchdif -0.640820
+Cam1: best hole# 5	 stitchdif 0.035912
+best stitchdifmin 0.0359	 dxtest 0.05966	 stitch 43.00791
+Results: dxtest 0.05966	 Cam01 42.94826	 Stitch 43.00791
+stitch mes cam0 nxcv 8			 xcm 0.15755		1.51134	0.83404	1.17250	0.49569	0.15755	-0.18048	-0.51872	-0.85728	
+stitch mes cam1 su_ix 1	  nfvbuf 8	 XCV=	1.90928	1.23198	1.57044	0.89363	0.55548	0.21746	-0.12078	-0.45934	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1575
+stitchdif hole# 0	 stitchdif 1.727989
+stitchdif hole# 1	 stitchdif 1.050694
+stitchdif hole# 2	 stitchdif 1.389153
+stitchdif hole# 3	 stitchdif 0.712337
+stitchdif hole# 4	 stitchdif 0.374195
+stitchdif hole# 5	 stitchdif 0.036167
+stitchdif hole# 6	 stitchdif -0.302071
+stitchdif hole# 7	 stitchdif -0.640633
+Cam1: best hole# 5	 stitchdif 0.036167
+best stitchdifmin 0.0362	 dxtest 0.05991	 stitch 43.00817
+Results: dxtest 0.05991	 Cam01 42.94826	 Stitch 43.00817
+stitch mes cam0 nxcv 8			 xcm 0.16005		1.51369	1.17482	0.83644	0.49813	0.16005	-0.17812	-0.51641	-0.85500	
+stitch mes cam1 su_ix 24	  nfvbuf 8	 XCV=	1.91163	1.57276	1.23437	0.89606	0.55798	0.21982	-0.11847	-0.45707	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1600
+stitchdif hole# 0	 stitchdif 1.727837
+stitchdif hole# 1	 stitchdif 1.388969
+stitchdif hole# 2	 stitchdif 1.050583
+stitchdif hole# 3	 stitchdif 0.712276
+stitchdif hole# 4	 stitchdif 0.374195
+stitchdif hole# 5	 stitchdif 0.036026
+stitchdif hole# 6	 stitchdif -0.302261
+stitchdif hole# 7	 stitchdif -0.640854
+Cam1: best hole# 5	 stitchdif 0.036026
+best stitchdifmin 0.0360	 dxtest 0.05977	 stitch 43.00803
+Results: dxtest 0.05977	 Cam01 42.94826	 Stitch 43.00803
+stitch mes cam0 nxcv 8			 xcm 0.15475		1.50835	1.16948	0.83108	0.49281	0.15475	-0.18336	-0.52154	-0.86020	
+stitch mes cam1 su_ix 1	  nfvbuf 8	 XCV=	1.90629	1.56741	1.22902	0.89075	0.55269	0.21457	-0.12360	-0.46226	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1548
+stitchdif hole# 0	 stitchdif 1.727791
+stitchdif hole# 1	 stitchdif 1.388916
+stitchdif hole# 2	 stitchdif 1.050522
+stitchdif hole# 3	 stitchdif 0.712254
+stitchdif hole# 4	 stitchdif 0.374195
+stitchdif hole# 5	 stitchdif 0.036079
+stitchdif hole# 6	 stitchdif -0.302097
+stitchdif hole# 7	 stitchdif -0.640759
+Cam1: best hole# 5	 stitchdif 0.036079
+best stitchdifmin 0.0361	 dxtest 0.05982	 stitch 43.00808
+Results: dxtest 0.05982	 Cam01 42.94826	 Stitch 43.00808
+stitch mes cam0 nxcv 8			 xcm 0.15345		1.16824	1.50693	0.82987	0.49160	0.15345	-0.18462	-0.52300	-0.86119	
+stitch mes cam1 su_ix 24	  nfvbuf 8	 XCV=	1.56618	1.90487	1.22781	0.88953	0.55139	0.21332	-0.12507	-0.46325	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1535
+stitchdif hole# 0	 stitchdif 1.388985
+stitchdif hole# 1	 stitchdif 1.727669
+stitchdif hole# 2	 stitchdif 1.050613
+stitchdif hole# 3	 stitchdif 0.712337
+stitchdif hole# 4	 stitchdif 0.374195
+stitchdif hole# 5	 stitchdif 0.036121
+stitchdif hole# 6	 stitchdif -0.302261
+stitchdif hole# 7	 stitchdif -0.640450
+Cam1: best hole# 5	 stitchdif 0.036121
+best stitchdifmin 0.0361	 dxtest 0.05987	 stitch 43.00812
+Results: dxtest 0.05987	 Cam01 42.94826	 Stitch 43.00812
+stitch cal cam0	 ncnt 0	 xcm -0.02492
+stitch cal cam1 result ncnt 0	 xcm -0.00180	 dxcal 0.02312	 cam01 42.9489
+stitch cal cam0	 ncnt 0	 xcm -0.02514
+stitch cal cam1 result ncnt 0	 xcm -0.00164	 dxcal 0.02350	 cam01 42.9485
+stitch cal cam0	 ncnt 0	 xcm -0.02520
+stitch cal cam1 result ncnt 0	 xcm -0.00152	 dxcal 0.02367	 cam01 42.9483
+stitch cal cam0	 ncnt 0	 xcm -0.02521
+stitch cal cam1 result ncnt 0	 xcm -0.00148	 dxcal 0.02373	 cam01 42.9483
+stitch cal cam0	 ncnt 0	 xcm -0.02531
+stitch cal cam1 result ncnt 0	 xcm -0.00161	 dxcal 0.02370	 cam01 42.9483
+stitch cal cam0	 ncnt 0	 xcm -0.02523
+stitch cal cam1 result ncnt 0	 xcm -0.00157	 dxcal 0.02367	 cam01 42.9483
+stitch cal cam0	 ncnt 0	 xcm -0.02530
+stitch cal cam1 result ncnt 0	 xcm -0.00160	 dxcal 0.02370	 cam01 42.9483
+stitch cal cam0	 ncnt 0	 xcm -0.02521
+stitch cal cam1 result ncnt 0	 xcm -0.00152	 dxcal 0.02369	 cam01 42.9483
+stitch cal cam0	 ncnt 0	 xcm -0.02523
+stitch cal cam1 result ncnt 0	 xcm -0.00155	 dxcal 0.02368	 cam01 42.9483
+stitch cal cam0	 ncnt 0	 xcm -0.02521
+stitch cal cam1 result ncnt 0	 xcm -0.00161	 dxcal 0.02360	 cam01 42.9484
+stitch mes cam0 nxcv 8			 xcm 0.15308		1.50734	1.16821	0.82982	0.49154	0.15308	-0.18486	-0.52323	-0.86194	
+stitch mes cam1 su_ix 1	  nfvbuf 8	 XCV=	1.90528	1.56614	1.22776	0.88948	0.55102	0.21307	-0.12529	-0.46401	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1531
+stitchdif hole# 0	 stitchdif 1.728592
+stitchdif hole# 1	 stitchdif 1.389462
+stitchdif hole# 2	 stitchdif 1.051071
+stitchdif hole# 3	 stitchdif 0.712791
+stitchdif hole# 4	 stitchdif 0.374336
+stitchdif hole# 5	 stitchdif 0.036388
+stitchdif hole# 6	 stitchdif -0.301979
+stitchdif hole# 7	 stitchdif -0.640690
+Cam1: best hole# 5	 stitchdif 0.036388
+best stitchdifmin 0.0364	 dxtest 0.05999	 stitch 43.00839
+Results: dxtest 0.05999	 Cam01 42.94840	 Stitch 43.00839
+stitch mes cam0 nxcv 8			 xcm 0.15495		1.50875	1.16992	0.83144	0.49320	0.15495	-0.18310	-0.52144	-0.86007	
+stitch mes cam1 su_ix 24	  nfvbuf 8	 XCV=	1.90669	1.56786	1.22937	0.89113	0.55288	0.21483	-0.12350	-0.46213	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1549
+stitchdif hole# 0	 stitchdif 1.728138
+stitchdif hole# 1	 stitchdif 1.389313
+stitchdif hole# 2	 stitchdif 1.050823
+stitchdif hole# 3	 stitchdif 0.712585
+stitchdif hole# 4	 stitchdif 0.374336
+stitchdif hole# 5	 stitchdif 0.036285
+stitchdif hole# 6	 stitchdif -0.302048
+stitchdif hole# 7	 stitchdif -0.640682
+Cam1: best hole# 5	 stitchdif 0.036285
+best stitchdifmin 0.0363	 dxtest 0.05989	 stitch 43.00829
+Results: dxtest 0.05989	 Cam01 42.94840	 Stitch 43.00829
+stitch mes cam0 nxcv 8			 xcm 0.15920		1.51283	1.17408	0.83560	0.15920	0.49734	-0.17885	-0.51730	-0.85579	
+stitch mes cam1 su_ix 1	  nfvbuf 8	 XCV=	1.91077	1.57202	1.23354	0.55713	0.89528	0.21908	-0.11936	-0.45785	
+
+irepeat cam0 # 0	 idistmin 3	 xcv 0.1592
+stitchdif hole# 0	 stitchdif 1.727966
+stitchdif hole# 1	 stitchdif 1.389221
+stitchdif hole# 2	 stitchdif 1.050739
+stitchdif hole# 3	 stitchdif 0.374336
+stitchdif hole# 4	 stitchdif 0.712479
+stitchdif hole# 5	 stitchdif 0.036285
+stitchdif hole# 6	 stitchdif -0.302162
+stitchdif hole# 7	 stitchdif -0.640656
+Cam1: best hole# 5	 stitchdif 0.036285
+best stitchdifmin 0.0363	 dxtest 0.05989	 stitch 43.00829
+Results: dxtest 0.05989	 Cam01 42.94840	 Stitch 43.00829
+stitch mes cam0 nxcv 8			 xcm 0.14341		1.49685	1.15800	0.81974	0.48130	0.14341	-0.19501	-0.53332	-0.87165	
+stitch mes cam1 su_ix 24	  nfvbuf 8	 XCV=	1.89479	1.55593	1.21767	0.87924	0.54134	0.20292	-0.13539	-0.47371	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1434
+stitchdif hole# 0	 stitchdif 1.727779
+stitchdif hole# 1	 stitchdif 1.388924
+stitchdif hole# 2	 stitchdif 1.050663
+stitchdif hole# 3	 stitchdif 0.712231
+stitchdif hole# 4	 stitchdif 0.374336
+stitchdif hole# 5	 stitchdif 0.035915
+stitchdif hole# 6	 stitchdif -0.302395
+stitchdif hole# 7	 stitchdif -0.640720
+Cam1: best hole# 5	 stitchdif 0.035915
+best stitchdifmin 0.0359	 dxtest 0.05952	 stitch 43.00792
+Results: dxtest 0.05952	 Cam01 42.94840	 Stitch 43.00792
+stitch mes cam0 nxcv 8			 xcm 0.15510		1.50869	1.16980	0.83145	0.49323	0.15510	-0.18338	-0.52139	-0.85978	
+stitch mes cam1 su_ix 1	  nfvbuf 8	 XCV=	1.90663	1.56774	1.22938	0.89117	0.55304	0.21456	-0.12345	-0.46185	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1551
+stitchdif hole# 0	 stitchdif 1.727928
+stitchdif hole# 1	 stitchdif 1.389038
+stitchdif hole# 2	 stitchdif 1.050682
+stitchdif hole# 3	 stitchdif 0.712467
+stitchdif hole# 4	 stitchdif 0.374336
+stitchdif hole# 5	 stitchdif 0.035858
+stitchdif hole# 6	 stitchdif -0.302155
+stitchdif hole# 7	 stitchdif -0.640549
+Cam1: best hole# 5	 stitchdif 0.035858
+best stitchdifmin 0.0359	 dxtest 0.05946	 stitch 43.00786
+Results: dxtest 0.05946	 Cam01 42.94840	 Stitch 43.00786
+stitch mes cam0 nxcv 8			 xcm 0.15449		1.50819	1.16934	0.83104	0.49263	0.15449	-0.18359	-0.52199	-0.86060	
+stitch mes cam1 su_ix 24	  nfvbuf 8	 XCV=	1.90613	1.56728	1.22898	0.89056	0.55243	0.21435	-0.12405	-0.46266	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1545
+stitchdif hole# 0	 stitchdif 1.728035
+stitchdif hole# 1	 stitchdif 1.389187
+stitchdif hole# 2	 stitchdif 1.050888
+stitchdif hole# 3	 stitchdif 0.712471
+stitchdif hole# 4	 stitchdif 0.374336
+stitchdif hole# 5	 stitchdif 0.036255
+stitchdif hole# 6	 stitchdif -0.302143
+stitchdif hole# 7	 stitchdif -0.640755
+Cam1: best hole# 5	 stitchdif 0.036255
+best stitchdifmin 0.0363	 dxtest 0.05986	 stitch 43.00826
+Results: dxtest 0.05986	 Cam01 42.94840	 Stitch 43.00826
+stitch mes cam0 nxcv 8			 xcm 0.15589		1.50937	1.17055	0.83225	0.49399	0.15589	-0.18220	-0.52050	-0.85867	
+stitch mes cam1 su_ix 1	  nfvbuf 8	 XCV=	1.90731	1.56849	1.23019	0.89192	0.55383	0.21574	-0.12257	-0.46074	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1559
+stitchdif hole# 0	 stitchdif 1.727814
+stitchdif hole# 1	 stitchdif 1.388992
+stitchdif hole# 2	 stitchdif 1.050694
+stitchdif hole# 3	 stitchdif 0.712425
+stitchdif hole# 4	 stitchdif 0.374336
+stitchdif hole# 5	 stitchdif 0.036240
+stitchdif hole# 6	 stitchdif -0.302067
+stitchdif hole# 7	 stitchdif -0.640236
+Cam1: best hole# 5	 stitchdif 0.036240
+best stitchdifmin 0.0362	 dxtest 0.05984	 stitch 43.00824
+Results: dxtest 0.05984	 Cam01 42.94840	 Stitch 43.00824
+stitch mes cam0 nxcv 8			 xcm 0.14682		1.50041	1.16165	0.82328	0.48518	0.14682	-0.19128	-0.52948	-0.86815	
+stitch mes cam1 su_ix 24	  nfvbuf 8	 XCV=	1.89835	1.55959	1.22122	0.88311	0.54475	0.20666	-0.13155	-0.47021	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1468
+stitchdif hole# 0	 stitchdif 1.727932
+stitchdif hole# 1	 stitchdif 1.389168
+stitchdif hole# 2	 stitchdif 1.050800
+stitchdif hole# 3	 stitchdif 0.712692
+stitchdif hole# 4	 stitchdif 0.374336
+stitchdif hole# 5	 stitchdif 0.036240
+stitchdif hole# 6	 stitchdif -0.301964
+stitchdif hole# 7	 stitchdif -0.640629
+Cam1: best hole# 5	 stitchdif 0.036240
+best stitchdifmin 0.0362	 dxtest 0.05984	 stitch 43.00824
+Results: dxtest 0.05984	 Cam01 42.94840	 Stitch 43.00824
+stitch mes cam0 nxcv 8			 xcm 0.15770		1.51123	1.17249	0.83401	0.49575	0.15770	-0.18038	-0.51877	-0.85729	
+stitch mes cam1 su_ix 1	  nfvbuf 8	 XCV=	1.90917	1.57043	1.23195	0.89369	0.55563	0.21755	-0.12084	-0.45936	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1577
+stitchdif hole# 0	 stitchdif 1.727871
+stitchdif hole# 1	 stitchdif 1.389130
+stitchdif hole# 2	 stitchdif 1.050648
+stitchdif hole# 3	 stitchdif 0.712391
+stitchdif hole# 4	 stitchdif 0.374336
+stitchdif hole# 5	 stitchdif 0.036255
+stitchdif hole# 6	 stitchdif -0.302135
+stitchdif hole# 7	 stitchdif -0.640659
+Cam1: best hole# 5	 stitchdif 0.036255
+best stitchdifmin 0.0363	 dxtest 0.05985	 stitch 43.00826
+Results: dxtest 0.05985	 Cam01 42.94840	 Stitch 43.00826
+stitch mes cam0 nxcv 8			 xcm 0.15689		1.51059	1.17177	0.83330	0.49504	0.15689	-0.18122	-0.51960	-0.85826	
+stitch mes cam1 su_ix 24	  nfvbuf 8	 XCV=	1.90852	1.56971	1.23124	0.89298	0.55482	0.21672	-0.12166	-0.46033	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1569
+stitchdif hole# 0	 stitchdif 1.728035
+stitchdif hole# 1	 stitchdif 1.389217
+stitchdif hole# 2	 stitchdif 1.050751
+stitchdif hole# 3	 stitchdif 0.712490
+stitchdif hole# 4	 stitchdif 0.374336
+stitchdif hole# 5	 stitchdif 0.036232
+stitchdif hole# 6	 stitchdif -0.302151
+stitchdif hole# 7	 stitchdif -0.640816
+Cam1: best hole# 5	 stitchdif 0.036232
+best stitchdifmin 0.0362	 dxtest 0.05983	 stitch 43.00823
+Results: dxtest 0.05983	 Cam01 42.94840	 Stitch 43.00823
+stitch mes cam0 nxcv 8			 xcm 0.15774		1.51121	1.17243	0.83405	0.49581	0.15774	-0.18039	-0.51846	-0.85730	
+stitch mes cam1 su_ix 1	  nfvbuf 8	 XCV=	1.90914	1.57036	1.23198	0.89375	0.55568	0.21754	-0.12053	-0.45937	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1577
+stitchdif hole# 0	 stitchdif 1.727798
+stitchdif hole# 1	 stitchdif 1.389015
+stitchdif hole# 2	 stitchdif 1.050640
+stitchdif hole# 3	 stitchdif 0.712399
+stitchdif hole# 4	 stitchdif 0.374336
+stitchdif hole# 5	 stitchdif 0.036198
+stitchdif hole# 6	 stitchdif -0.301872
+stitchdif hole# 7	 stitchdif -0.640713
+Cam1: best hole# 5	 stitchdif 0.036198
+best stitchdifmin 0.0362	 dxtest 0.05980	 stitch 43.00820
+Results: dxtest 0.05980	 Cam01 42.94840	 Stitch 43.00820
+stitch mes cam0 nxcv 8			 xcm 0.14788		1.50140	0.82432	1.16258	0.48589	0.14788	-0.19028	-0.52873	-0.86722	
+stitch mes cam1 su_ix 24	  nfvbuf 8	 XCV=	1.89934	1.22226	1.56051	0.88382	0.54582	0.20766	-0.13079	-0.46929	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1479
+stitchdif hole# 0	 stitchdif 1.727852
+stitchdif hole# 1	 stitchdif 1.050774
+stitchdif hole# 2	 stitchdif 1.389027
+stitchdif hole# 3	 stitchdif 0.712341
+stitchdif hole# 4	 stitchdif 0.374336
+stitchdif hole# 5	 stitchdif 0.036175
+stitchdif hole# 6	 stitchdif -0.302277
+stitchdif hole# 7	 stitchdif -0.640770
+Cam1: best hole# 5	 stitchdif 0.036175
+best stitchdifmin 0.0362	 dxtest 0.05978	 stitch 43.00817
+Results: dxtest 0.05978	 Cam01 42.94840	 Stitch 43.00817
+stitch mes cam0 nxcv 8			 xcm 0.15884		1.51233	1.17351	0.83515	0.49680	0.15884	-0.17929	-0.51757	-0.85612	
+stitch mes cam1 su_ix 1	  nfvbuf 8	 XCV=	1.91027	1.57145	1.23308	0.89474	0.55677	0.21865	-0.11963	-0.45818	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1588
+stitchdif hole# 0	 stitchdif 1.727829
+stitchdif hole# 1	 stitchdif 1.389011
+stitchdif hole# 2	 stitchdif 1.050644
+stitchdif hole# 3	 stitchdif 0.712299
+stitchdif hole# 4	 stitchdif 0.374336
+stitchdif hole# 5	 stitchdif 0.036213
+stitchdif hole# 6	 stitchdif -0.302071
+stitchdif hole# 7	 stitchdif -0.640621
+Cam1: best hole# 5	 stitchdif 0.036213
+best stitchdifmin 0.0362	 dxtest 0.05981	 stitch 43.00821
+Results: dxtest 0.05981	 Cam01 42.94840	 Stitch 43.00821
+stitch mes cam0 nxcv 8			 xcm 0.15433		1.50818	1.16921	0.83082	0.49255	0.15433	-0.18371	-0.52226	-0.86046	
+stitch mes cam1 su_ix 24	  nfvbuf 8	 XCV=	1.90611	1.56715	1.22875	0.89048	0.55227	0.21423	-0.12433	-0.46253	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1543
+stitchdif hole# 0	 stitchdif 1.728176
+stitchdif hole# 1	 stitchdif 1.389214
+stitchdif hole# 2	 stitchdif 1.050816
+stitchdif hole# 3	 stitchdif 0.712547
+stitchdif hole# 4	 stitchdif 0.374336
+stitchdif hole# 5	 stitchdif 0.036289
+stitchdif hole# 6	 stitchdif -0.302261
+stitchdif hole# 7	 stitchdif -0.640461
+Cam1: best hole# 5	 stitchdif 0.036289
+best stitchdifmin 0.0363	 dxtest 0.05989	 stitch 43.00829
+Results: dxtest 0.05989	 Cam01 42.94840	 Stitch 43.00829
+stitch mes cam0 nxcv 8			 xcm 0.16182		1.51537	1.17661	0.83816	0.49987	0.16182	-0.17626	-0.51454	-0.85316	
+stitch mes cam1 su_ix 1	  nfvbuf 8	 XCV=	1.91331	1.57455	1.23609	0.89781	0.55975	0.22167	-0.11661	-0.45522	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1618
+stitchdif hole# 0	 stitchdif 1.727886
+stitchdif hole# 1	 stitchdif 1.389130
+stitchdif hole# 2	 stitchdif 1.050674
+stitchdif hole# 3	 stitchdif 0.712391
+stitchdif hole# 4	 stitchdif 0.374336
+stitchdif hole# 5	 stitchdif 0.036251
+stitchdif hole# 6	 stitchdif -0.302029
+stitchdif hole# 7	 stitchdif -0.640644
+Cam1: best hole# 5	 stitchdif 0.036251
+best stitchdifmin 0.0363	 dxtest 0.05985	 stitch 43.00825
+Results: dxtest 0.05985	 Cam01 42.94840	 Stitch 43.00825
+stitch mes cam0 nxcv 8			 xcm 0.14960		1.50331	1.16445	0.82621	0.48797	0.14960	-0.18843	-0.52662	-0.86531	
+stitch mes cam1 su_ix 24	  nfvbuf 8	 XCV=	1.90125	1.56238	1.22415	0.88591	0.54754	0.20950	-0.12868	-0.46737	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1496
+stitchdif hole# 0	 stitchdif 1.728046
+stitchdif hole# 1	 stitchdif 1.389183
+stitchdif hole# 2	 stitchdif 1.050949
+stitchdif hole# 3	 stitchdif 0.712708
+stitchdif hole# 4	 stitchdif 0.374336
+stitchdif hole# 5	 stitchdif 0.036304
+stitchdif hole# 6	 stitchdif -0.301884
+stitchdif hole# 7	 stitchdif -0.640575
+Cam1: best hole# 5	 stitchdif 0.036304
+best stitchdifmin 0.0363	 dxtest 0.05990	 stitch 43.00830
+Results: dxtest 0.05990	 Cam01 42.94840	 Stitch 43.00830
+stitch mes cam0 nxcv 8			 xcm 0.15720		1.51086	1.17196	0.49541	0.83354	0.15720	-0.18097	-0.51923	-0.85794	
+stitch mes cam1 su_ix 1	  nfvbuf 8	 XCV=	1.90880	1.56989	0.89334	1.23147	0.55514	0.21697	-0.12129	-0.46001	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1572
+stitchdif hole# 0	 stitchdif 1.727993
+stitchdif hole# 1	 stitchdif 1.389088
+stitchdif hole# 2	 stitchdif 0.712536
+stitchdif hole# 3	 stitchdif 1.050667
+stitchdif hole# 4	 stitchdif 0.374336
+stitchdif hole# 5	 stitchdif 0.036160
+stitchdif hole# 6	 stitchdif -0.302097
+stitchdif hole# 7	 stitchdif -0.640812
+Cam1: best hole# 5	 stitchdif 0.036160
+best stitchdifmin 0.0362	 dxtest 0.05976	 stitch 43.00816
+Results: dxtest 0.05976	 Cam01 42.94840	 Stitch 43.00816
+stitch mes cam0 nxcv 8			 xcm 0.15447		1.50811	1.16931	0.83091	0.49270	0.15447	-0.18361	-0.52194	-0.86041	
+stitch mes cam1 su_ix 24	  nfvbuf 8	 XCV=	1.90604	1.56724	1.22885	0.89063	0.55240	0.21433	-0.12400	-0.46247	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1545
+stitchdif hole# 0	 stitchdif 1.727978
+stitchdif hole# 1	 stitchdif 1.389175
+stitchdif hole# 2	 stitchdif 1.050777
+stitchdif hole# 3	 stitchdif 0.712563
+stitchdif hole# 4	 stitchdif 0.374336
+stitchdif hole# 5	 stitchdif 0.036259
+stitchdif hole# 6	 stitchdif -0.302067
+stitchdif hole# 7	 stitchdif -0.640537
+Cam1: best hole# 5	 stitchdif 0.036259
+best stitchdifmin 0.0363	 dxtest 0.05986	 stitch 43.00826
+Results: dxtest 0.05986	 Cam01 42.94840	 Stitch 43.00826
+stitch mes cam0 nxcv 8			 xcm 0.15949		1.51298	1.17417	0.83578	0.49756	0.15949	-0.17858	-0.51688	-0.85557	
+stitch mes cam1 su_ix 1	  nfvbuf 8	 XCV=	1.91092	1.57211	1.23371	0.89550	0.55743	0.21936	-0.11894	-0.45763	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1595
+stitchdif hole# 0	 stitchdif 1.727825
+stitchdif hole# 1	 stitchdif 1.389019
+stitchdif hole# 2	 stitchdif 1.050621
+stitchdif hole# 3	 stitchdif 0.712406
+stitchdif hole# 4	 stitchdif 0.374336
+stitchdif hole# 5	 stitchdif 0.036263
+stitchdif hole# 6	 stitchdif -0.302032
+stitchdif hole# 7	 stitchdif -0.640724
+Cam1: best hole# 5	 stitchdif 0.036263
+best stitchdifmin 0.0363	 dxtest 0.05986	 stitch 43.00826
+Results: dxtest 0.05986	 Cam01 42.94840	 Stitch 43.00826
+stitch mes cam0 nxcv 8			 xcm 0.15194		1.50536	1.16660	0.49010	0.82833	0.15194	-0.18617	-0.52448	-0.86305	
+stitch mes cam1 su_ix 24	  nfvbuf 8	 XCV=	1.90330	1.56453	0.88803	1.22626	0.54988	0.21176	-0.12654	-0.46511	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1519
+stitchdif hole# 0	 stitchdif 1.727753
+stitchdif hole# 1	 stitchdif 1.388988
+stitchdif hole# 2	 stitchdif 0.712486
+stitchdif hole# 3	 stitchdif 1.050720
+stitchdif hole# 4	 stitchdif 0.374336
+stitchdif hole# 5	 stitchdif 0.036221
+stitchdif hole# 6	 stitchdif -0.302090
+stitchdif hole# 7	 stitchdif -0.640659
+Cam1: best hole# 5	 stitchdif 0.036221
+best stitchdifmin 0.0362	 dxtest 0.05982	 stitch 43.00822
+Results: dxtest 0.05982	 Cam01 42.94840	 Stitch 43.00822
+stitch mes cam0 nxcv 8			 xcm 0.15616		1.50986	1.17103	0.83264	0.49440	0.15616	-0.18195	-0.52015	-0.85882	
+stitch mes cam1 su_ix 1	  nfvbuf 8	 XCV=	1.90779	1.56897	1.23057	0.89233	0.55409	0.21598	-0.12221	-0.46088	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1562
+stitchdif hole# 0	 stitchdif 1.728035
+stitchdif hole# 1	 stitchdif 1.389214
+stitchdif hole# 2	 stitchdif 1.050812
+stitchdif hole# 3	 stitchdif 0.712574
+stitchdif hole# 4	 stitchdif 0.374336
+stitchdif hole# 5	 stitchdif 0.036224
+stitchdif hole# 6	 stitchdif -0.301971
+stitchdif hole# 7	 stitchdif -0.640644
+Cam1: best hole# 5	 stitchdif 0.036224
+best stitchdifmin 0.0362	 dxtest 0.05983	 stitch 43.00822
+Results: dxtest 0.05983	 Cam01 42.94840	 Stitch 43.00822
+stitch mes cam0 nxcv 8			 xcm 0.15671		1.51045	1.17163	0.83326	0.49484	0.15671	-0.18146	-0.51974	-0.85820	
+stitch mes cam1 su_ix 24	  nfvbuf 8	 XCV=	1.90838	1.56957	1.23120	0.89278	0.55465	0.21648	-0.12180	-0.46026	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1567
+stitchdif hole# 0	 stitchdif 1.728069
+stitchdif hole# 1	 stitchdif 1.389256
+stitchdif hole# 2	 stitchdif 1.050884
+stitchdif hole# 3	 stitchdif 0.712463
+stitchdif hole# 4	 stitchdif 0.374336
+stitchdif hole# 5	 stitchdif 0.036167
+stitchdif hole# 6	 stitchdif -0.302113
+stitchdif hole# 7	 stitchdif -0.640575
+Cam1: best hole# 5	 stitchdif 0.036167
+best stitchdifmin 0.0362	 dxtest 0.05977	 stitch 43.00817
+Results: dxtest 0.05977	 Cam01 42.94840	 Stitch 43.00817
+stitch mes cam0 nxcv 9			 xcm 0.16202		1.16528	1.51544	1.18123	0.83832	0.50009	0.16202	-0.17608	-0.51444	-0.85295	
+stitch mes cam1 su_ix 1	  nfvbuf 7	 XCV=	1.56321	1.91338	1.57917	1.23625	0.89802	0.55996	0.22186	
+
+irepeat cam0 # 0	 idistmin 5	 xcv 0.1620
+stitchdif hole# 0	 stitchdif 1.377594
+stitchdif hole# 1	 stitchdif 1.727753
+stitchdif hole# 2	 stitchdif 1.393547
+stitchdif hole# 3	 stitchdif 1.050632
+stitchdif hole# 4	 stitchdif 0.712399
+stitchdif hole# 5	 stitchdif 0.374336
+stitchdif hole# 6	 stitchdif 0.036232
+Cam1: best hole# 6	 stitchdif 0.036232
+best stitchdifmin 0.0362	 dxtest 0.05984	 stitch 43.00823
+Results: dxtest 0.05984	 Cam01 42.94840	 Stitch 43.00823
+stitch mes cam0 nxcv 8			 xcm 0.15117		1.50458	1.16583	0.82752	0.48931	0.15117	-0.18695	-0.52508	-0.86373	
+stitch mes cam1 su_ix 24	  nfvbuf 8	 XCV=	1.90252	1.56377	1.22546	0.88725	0.54911	0.21099	-0.12714	-0.46579	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1512
+stitchdif hole# 0	 stitchdif 1.727745
+stitchdif hole# 1	 stitchdif 1.388996
+stitchdif hole# 2	 stitchdif 1.050686
+stitchdif hole# 3	 stitchdif 0.712475
+stitchdif hole# 4	 stitchdif 0.374336
+stitchdif hole# 5	 stitchdif 0.036213
+stitchdif hole# 6	 stitchdif -0.301918
+stitchdif hole# 7	 stitchdif -0.640564
+Cam1: best hole# 5	 stitchdif 0.036213
+best stitchdifmin 0.0362	 dxtest 0.05981	 stitch 43.00821
+Results: dxtest 0.05981	 Cam01 42.94840	 Stitch 43.00821
+stitch mes cam0 nxcv 8			 xcm 0.15507		1.50881	1.16996	0.83141	0.15507	0.49316	-0.18306	-0.52136	-0.85999	
+stitch mes cam1 su_ix 1	  nfvbuf 8	 XCV=	1.90675	1.56790	1.22934	0.55301	0.89109	0.21487	-0.12343	-0.46206	
+
+irepeat cam0 # 0	 idistmin 3	 xcv 0.1551
+stitchdif hole# 0	 stitchdif 1.728073
+stitchdif hole# 1	 stitchdif 1.389225
+stitchdif hole# 2	 stitchdif 1.050671
+stitchdif hole# 3	 stitchdif 0.374336
+stitchdif hole# 4	 stitchdif 0.712421
+stitchdif hole# 5	 stitchdif 0.036201
+stitchdif hole# 6	 stitchdif -0.302101
+stitchdif hole# 7	 stitchdif -0.640732
+Cam1: best hole# 5	 stitchdif 0.036201
+best stitchdifmin 0.0362	 dxtest 0.05980	 stitch 43.00820
+Results: dxtest 0.05980	 Cam01 42.94840	 Stitch 43.00820
+stitch mes cam0 nxcv 8			 xcm 0.15660		1.51017	1.17137	0.83288	0.49463	0.15660	-0.18165	-0.51989	-0.85854	
+stitch mes cam1 su_ix 24	  nfvbuf 8	 XCV=	1.90811	1.56931	1.23082	0.89257	0.55454	0.21628	-0.12196	-0.46061	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1566
+stitchdif hole# 0	 stitchdif 1.727905
+stitchdif hole# 1	 stitchdif 1.389099
+stitchdif hole# 2	 stitchdif 1.050613
+stitchdif hole# 3	 stitchdif 0.712364
+stitchdif hole# 4	 stitchdif 0.374336
+stitchdif hole# 5	 stitchdif 0.036076
+stitchdif hole# 6	 stitchdif -0.302162
+stitchdif hole# 7	 stitchdif -0.640812
+Cam1: best hole# 5	 stitchdif 0.036076
+best stitchdifmin 0.0361	 dxtest 0.05968	 stitch 43.00808
+Results: dxtest 0.05968	 Cam01 42.94840	 Stitch 43.00808
+stitch mes cam0 nxcv 8			 xcm 0.15959		1.51303	1.17423	0.49764	0.83591	0.15959	-0.17844	-0.51665	-0.85538	
+stitch mes cam1 su_ix 1	  nfvbuf 8	 XCV=	1.91097	1.57217	0.89557	1.23384	0.55753	0.21949	-0.11871	-0.45745	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1596
+stitchdif hole# 0	 stitchdif 1.727779
+stitchdif hole# 1	 stitchdif 1.388973
+stitchdif hole# 2	 stitchdif 0.712379
+stitchdif hole# 3	 stitchdif 1.050652
+stitchdif hole# 4	 stitchdif 0.374336
+stitchdif hole# 5	 stitchdif 0.036301
+stitchdif hole# 6	 stitchdif -0.301903
+stitchdif hole# 7	 stitchdif -0.640636
+Cam1: best hole# 5	 stitchdif 0.036301
+best stitchdifmin 0.0363	 dxtest 0.05990	 stitch 43.00830
+Results: dxtest 0.05990	 Cam01 42.94840	 Stitch 43.00830
+stitch mes cam0 nxcv 8			 xcm 0.15457		1.50819	1.16947	0.83108	0.49271	0.15457	-0.18349	-0.52182	-0.86040	
+stitch mes cam1 su_ix 24	  nfvbuf 8	 XCV=	1.90613	1.56741	1.22901	0.89065	0.55250	0.21445	-0.12388	-0.46246	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1546
+stitchdif hole# 0	 stitchdif 1.727959
+stitchdif hole# 1	 stitchdif 1.389236
+stitchdif hole# 2	 stitchdif 1.050842
+stitchdif hole# 3	 stitchdif 0.712479
+stitchdif hole# 4	 stitchdif 0.374336
+stitchdif hole# 5	 stitchdif 0.036278
+stitchdif hole# 6	 stitchdif -0.302048
+stitchdif hole# 7	 stitchdif -0.640633
+Cam1: best hole# 5	 stitchdif 0.036278
+best stitchdifmin 0.0363	 dxtest 0.05988	 stitch 43.00828
+Results: dxtest 0.05988	 Cam01 42.94840	 Stitch 43.00828
+stitch mes cam0 nxcv 8			 xcm 0.15270		1.50627	1.16751	0.82909	0.49082	0.15270	-0.18558	-0.52364	-0.86232	
+stitch mes cam1 su_ix 1	  nfvbuf 8	 XCV=	1.90420	1.56545	1.22702	0.88875	0.55064	0.21236	-0.12571	-0.46438	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1527
+stitchdif hole# 0	 stitchdif 1.727898
+stitchdif hole# 1	 stitchdif 1.389145
+stitchdif hole# 2	 stitchdif 1.050716
+stitchdif hole# 3	 stitchdif 0.712444
+stitchdif hole# 4	 stitchdif 0.374336
+stitchdif hole# 5	 stitchdif 0.036053
+stitchdif hole# 6	 stitchdif -0.302013
+stitchdif hole# 7	 stitchdif -0.640686
+Cam1: best hole# 5	 stitchdif 0.036053
+best stitchdifmin 0.0361	 dxtest 0.05965	 stitch 43.00805
+Results: dxtest 0.05965	 Cam01 42.94840	 Stitch 43.00805
+stitch mes cam0 nxcv 8			 xcm 0.15507		1.50860	1.16986	0.49325	0.83145	0.15507	-0.18308	-0.52131	-0.85988	
+stitch mes cam1 su_ix 24	  nfvbuf 8	 XCV=	1.90653	1.56780	0.89119	1.22939	0.55301	0.21486	-0.12337	-0.46194	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1551
+stitchdif hole# 0	 stitchdif 1.727859
+stitchdif hole# 1	 stitchdif 1.389122
+stitchdif hole# 2	 stitchdif 0.712513
+stitchdif hole# 3	 stitchdif 1.050713
+stitchdif hole# 4	 stitchdif 0.374336
+stitchdif hole# 5	 stitchdif 0.036182
+stitchdif hole# 6	 stitchdif -0.302044
+stitchdif hole# 7	 stitchdif -0.640617
+Cam1: best hole# 5	 stitchdif 0.036182
+best stitchdifmin 0.0362	 dxtest 0.05978	 stitch 43.00818
+Results: dxtest 0.05978	 Cam01 42.94840	 Stitch 43.00818
+stitch mes cam0 nxcv 8			 xcm 0.16163		1.51529	1.17638	0.83814	0.49997	0.16163	-0.17628	-0.51455	-0.85294	
+stitch mes cam1 su_ix 1	  nfvbuf 8	 XCV=	1.91322	1.57432	1.23608	0.89791	0.55957	0.22166	-0.11661	-0.45501	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1616
+stitchdif hole# 0	 stitchdif 1.727993
+stitchdif hole# 1	 stitchdif 1.389084
+stitchdif hole# 2	 stitchdif 1.050846
+stitchdif hole# 3	 stitchdif 0.712673
+stitchdif hole# 4	 stitchdif 0.374336
+stitchdif hole# 5	 stitchdif 0.036430
+stitchdif hole# 6	 stitchdif -0.301842
+stitchdif hole# 7	 stitchdif -0.640240
+Cam1: best hole# 5	 stitchdif 0.036430
+best stitchdifmin 0.0364	 dxtest 0.06003	 stitch 43.00843
+Results: dxtest 0.06003	 Cam01 42.94840	 Stitch 43.00843
+stitch mes cam0 nxcv 8			 xcm 0.15503		1.50860	1.16981	0.83136	0.49316	0.15503	-0.18302	-0.52137	-0.85981	
+stitch mes cam1 su_ix 24	  nfvbuf 8	 XCV=	1.90654	1.56775	1.22930	0.89110	0.55296	0.21492	-0.12343	-0.46187	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1550
+stitchdif hole# 0	 stitchdif 1.727909
+stitchdif hole# 1	 stitchdif 1.389118
+stitchdif hole# 2	 stitchdif 1.050671
+stitchdif hole# 3	 stitchdif 0.712471
+stitchdif hole# 4	 stitchdif 0.374336
+stitchdif hole# 5	 stitchdif 0.036289
+stitchdif hole# 6	 stitchdif -0.302063
+stitchdif hole# 7	 stitchdif -0.640499
+Cam1: best hole# 5	 stitchdif 0.036289
+best stitchdifmin 0.0363	 dxtest 0.05989	 stitch 43.00829
+Results: dxtest 0.05989	 Cam01 42.94840	 Stitch 43.00829
+stitch mes cam0 nxcv 8			 xcm 0.15433		1.50806	1.16925	0.83077	0.49252	0.15433	-0.18381	-0.52201	-0.86063	
+stitch mes cam1 su_ix 1	  nfvbuf 8	 XCV=	1.90599	1.56718	1.22871	0.89046	0.55226	0.21413	-0.12407	-0.46270	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1543
+stitchdif hole# 0	 stitchdif 1.728065
+stitchdif hole# 1	 stitchdif 1.389252
+stitchdif hole# 2	 stitchdif 1.050781
+stitchdif hole# 3	 stitchdif 0.712528
+stitchdif hole# 4	 stitchdif 0.374336
+stitchdif hole# 5	 stitchdif 0.036198
+stitchdif hole# 6	 stitchdif -0.302002
+stitchdif hole# 7	 stitchdif -0.640629
+Cam1: best hole# 5	 stitchdif 0.036198
+best stitchdifmin 0.0362	 dxtest 0.05980	 stitch 43.00820
+Results: dxtest 0.05980	 Cam01 42.94840	 Stitch 43.00820
+stitch mes cam0 nxcv 8			 xcm 0.15505		1.50877	1.16998	0.83155	0.49321	0.15505	-0.18299	-0.52128	-0.85997	
+stitch mes cam1 su_ix 24	  nfvbuf 8	 XCV=	1.90671	1.56792	1.22949	0.89115	0.55299	0.21495	-0.12335	-0.46203	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1551
+stitchdif hole# 0	 stitchdif 1.728054
+stitchdif hole# 1	 stitchdif 1.389263
+stitchdif hole# 2	 stitchdif 1.050838
+stitchdif hole# 3	 stitchdif 0.712494
+stitchdif hole# 4	 stitchdif 0.374336
+stitchdif hole# 5	 stitchdif 0.036297
+stitchdif hole# 6	 stitchdif -0.301998
+stitchdif hole# 7	 stitchdif -0.640682
+Cam1: best hole# 5	 stitchdif 0.036297
+best stitchdifmin 0.0363	 dxtest 0.05990	 stitch 43.00830
+Results: dxtest 0.05990	 Cam01 42.94840	 Stitch 43.00830
+stitch mes cam0 nxcv 8			 xcm 0.16095		1.51425	1.17538	0.83706	0.49886	0.16095	-0.17717	-0.51528	-0.85389	
+stitch mes cam1 su_ix 1	  nfvbuf 8	 XCV=	1.91218	1.57332	1.23500	0.89680	0.55889	0.22076	-0.11735	-0.45595	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1610
+stitchdif hole# 0	 stitchdif 1.727627
+stitchdif hole# 1	 stitchdif 1.388763
+stitchdif hole# 2	 stitchdif 1.050442
+stitchdif hole# 3	 stitchdif 0.712242
+stitchdif hole# 4	 stitchdif 0.374336
+stitchdif hole# 5	 stitchdif 0.036209
+stitchdif hole# 6	 stitchdif -0.301903
+stitchdif hole# 7	 stitchdif -0.640511
+Cam1: best hole# 5	 stitchdif 0.036209
+best stitchdifmin 0.0362	 dxtest 0.05981	 stitch 43.00821
+Results: dxtest 0.05981	 Cam01 42.94840	 Stitch 43.00821
+stitch mes cam0 nxcv 8			 xcm 0.15382		1.50725	1.16843	0.83018	0.49189	0.15382	-0.18427	-0.86086	-0.52260	
+stitch mes cam1 su_ix 24	  nfvbuf 8	 XCV=	1.90518	1.56637	1.22812	0.88983	0.55175	0.21367	-0.46293	-0.12467	
+
+irepeat cam0 # 0	 idistmin 4	 xcv 0.1538
+stitchdif hole# 0	 stitchdif 1.727764
+stitchdif hole# 1	 stitchdif 1.388947
+stitchdif hole# 2	 stitchdif 1.050697
+stitchdif hole# 3	 stitchdif 0.712410
+stitchdif hole# 4	 stitchdif 0.374336
+stitchdif hole# 5	 stitchdif 0.036251
+stitchdif hole# 6	 stitchdif -0.640347
+stitchdif hole# 7	 stitchdif -0.302090
+Cam1: best hole# 5	 stitchdif 0.036251
+best stitchdifmin 0.0363	 dxtest 0.05985	 stitch 43.00825
+Results: dxtest 0.05985	 Cam01 42.94840	 Stitch 43.00825
+
+Testmode protocol of session Date=Tue Oct 09 11:05:00 2018
+
+stitch cam0	su_ix0	X=	1.51131	1.17214	0.83370	0.49544	0.15711	-0.18087	-0.51924	-0.85793	
+stitch cam1	su_ix1	X=	-1.16506	-0.82706	-0.48924	-0.15190	0.18592	0.52392	0.86226	1.20095	
+
+ireieat	0	-1.345951	-1.007957	-0.670132	-0.332798	0.005024	0.343029	0.681366	1.020061	
+stitch cam0	su_ix23	X=	1.51370	1.17486	0.83647	0.49817	0.15996	-0.17815	-0.51650	-0.85503	
+stitch cam1	su_ix24	X=	-1.16183	-0.82376	-0.48597	-0.14838	0.18933	0.52696	0.86566	1.20424	
+
+ireieat	0	-1.345573	-1.007496	-0.669704	-0.332123	0.005585	0.343220	0.681919	1.020504	
+stitch cam0	su_ix0	X=	1.50990	1.17120	0.83274	0.49457	0.15648	-0.51993	-0.18154	-0.85827	
+stitch cam1	su_ix1	X=	-1.16562	-0.82749	-0.48972	-0.15208	0.18565	0.52344	0.86193	1.20081	
+
+ireieat	0	-1.345890	-1.007755	-0.669987	-0.332348	0.005386	0.343178	0.681664	1.020546	
+stitch cam0	su_ix23	X=	1.50392	1.16504	0.82677	0.15043	0.48842	-0.18802	-0.52630	-0.86467	
+stitch cam1	su_ix24	X=	-1.17150	-0.83355	-0.49576	-0.15809	0.17957	0.51744	0.85589	1.19479	
+
+ireieat	0	-1.345722	-1.007767	-0.669979	-0.332302	0.005356	0.343224	0.681675	1.020573	
+stitch cam0	su_ix0	X=	1.51167	1.17280	0.83437	0.49615	0.15797	-0.18050	-0.51842	-0.85691	
+stitch cam1	su_ix1	X=	-1.16448	-0.82650	-0.48863	-0.15116	0.18650	0.52455	0.86245	1.20157	
+
+ireieat	0	-1.346233	-1.008255	-0.670387	-0.332920	0.004742	0.342796	0.680691	1.019817	
+stitch cam0	su_ix23	X=	1.51270	1.17381	0.83548	0.49716	0.15904	-0.17904	-0.51742	-0.85613	
+stitch cam1	su_ix24	X=	-1.16276	-0.82462	-0.48687	-0.14929	0.18832	0.52634	0.86469	1.20337	
+
+ireieat	0	-1.345589	-1.007446	-0.669701	-0.332123	0.005489	0.343510	0.681858	1.020535	
+stitch cam0	su_ix0	X=	1.50756	1.16884	0.83059	0.49239	0.15428	-0.18372	-0.52192	-0.86012	
+stitch cam1	su_ix1	X=	-1.16732	-0.82942	-0.49162	-0.15398	0.18364	0.52157	0.85994	1.19884	
+
+ireieat	0	-1.345379	-1.007481	-0.669685	-0.332047	0.005581	0.343510	0.681877	1.020779	
+stitch cam0	su_ix23	X=	1.50647	1.16774	0.82941	0.49128	0.15299	-0.18514	-0.52326	-0.86194	
+stitch cam1	su_ix24	X=	-1.16913	-0.83116	-0.49313	-0.15582	0.18207	0.51986	0.85824	1.19689	
+
+ireieat	0	-1.345905	-1.007938	-0.669907	-0.332592	0.005299	0.343082	0.681461	1.020115	
+stitch cam0	su_ix0	X=	1.51244	1.17366	0.83529	0.49698	0.15887	-0.17916	-0.51747	-0.85596	
+stitch cam1	su_ix1	X=	-1.16243	-0.82449	-0.48670	-0.14894	0.18862	0.52653	0.86486	1.20363	
+
+ireieat	0	-1.345085	-1.007137	-0.669350	-0.331596	0.005970	0.343880	0.682209	1.020973	
+stitch cam0	su_ix23	X=	1.51228	1.17349	0.83510	0.49676	0.15864	-0.17955	-0.51787	-0.85661	
+stitch cam1	su_ix24	X=	-1.16311	-0.82526	-0.48751	-0.14955	0.18792	0.52589	0.86427	1.20291	
+
+ireieat	0	-1.345535	-1.007679	-0.669933	-0.331966	0.005497	0.343464	0.681854	1.020493	
+stitch cam0	su_ix0	X=	1.51141	1.17267	0.83438	0.49618	0.15806	-0.18000	-0.51807	-0.85682	
+stitch cam1	su_ix1	X=	-1.16319	-0.82527	-0.48751	-0.14996	0.18790	0.52575	0.86416	1.20296	
+
+ireieat	0	-1.345032	-1.007107	-0.669357	-0.331802	0.006058	0.343906	0.682320	1.021122	
+stitch cam0	su_ix23	X=	1.50761	1.16882	0.83053	0.49212	-0.18408	0.15404	-0.52248	-0.86089	
+stitch cam1	su_ix24	X=	-1.16799	-0.83005	-0.49230	-0.15456	0.18306	0.52099	0.85944	1.19819	
+
+ireieat	0	-1.345821	-1.007874	-0.670128	-0.332386	0.005238	0.343163	0.681610	1.020359	
+stitch cam0	su_ix0	X=	1.51308	1.17422	0.83579	0.49761	0.15946	-0.17863	-0.51685	-0.85543	
+stitch cam1	su_ix1	X=	-1.16173	-0.82371	-0.48594	-0.14824	0.18925	0.52730	0.86569	1.20432	
+
+ireieat	0	-1.344975	-1.006954	-0.669178	-0.331478	0.006004	0.344051	0.682442	1.021080	
+stitch cam0	su_ix23	X=	1.51140	1.17258	0.83409	0.49582	0.15767	-0.18050	-0.51887	-0.85718	
+stitch cam1	su_ix24	X=	-1.16348	-0.82565	-0.48770	-0.14994	0.18763	0.52562	0.86405	1.20273	
+
+ireieat	0	-1.344940	-1.007103	-0.669155	-0.331390	0.006172	0.344162	0.682598	1.021275	
+stitch cam0	su_ix0	X=	1.51320	1.17458	0.83610	0.49787	0.15980	-0.17816	-0.51639	-0.85506	
+stitch cam1	su_ix1	X=	-1.16327	-0.82518	-0.48732	-0.14988	0.18790	0.52598	0.86422	1.20298	
+
+ireieat	0	-1.346851	-1.008766	-0.670902	-0.333466	0.004318	0.342400	0.680630	1.019394	
+stitch cam0	su_ix23	X=	1.50818	1.16932	0.83113	0.49292	0.15458	-0.18343	-0.86028	-0.52165	
+stitch cam1	su_ix24	X=	-1.16789	-0.82976	-0.49202	-0.15452	0.18329	0.52121	0.85950	1.19847	
+
+ireieat	0	-1.346256	-1.008129	-0.670383	-0.332886	0.004925	0.342846	0.681126	1.020103	
+stitch cam0	su_ix0	X=	1.51340	0.83617	1.17459	0.49804	0.15976	-0.17830	-0.51653	-0.85526	
+stitch cam1	su_ix1	X=	-1.16183	-0.82390	-0.48682	-0.14842	0.18923	0.52714	0.86557	1.20435	
+
+ireieat	0	-1.345379	-1.007442	-0.670364	-0.331963	0.005684	0.343597	0.682022	1.020805	
+stitch cam0	su_ix23	X=	1.17493	1.51380	0.83653	0.49819	0.16006	-0.17802	-0.51637	-0.85475	
+stitch cam1	su_ix24	X=	-1.16144	-0.82330	-0.48581	-0.14797	0.18981	0.52758	0.86604	1.20474	
+
+ireieat	0	-1.345287	-1.007145	-0.669659	-0.331814	0.005962	0.343739	0.682190	1.020897	
+stitch cam0	su_ix0	X=	1.50956	1.17067	0.83243	0.49419	0.15612	-0.18193	-0.52017	-0.85893	
+stitch cam1	su_ix1	X=	-1.16624	-0.82807	-0.49040	-0.15268	0.18501	0.52303	0.86122	1.20000	
+
+ireieat	0	-1.346142	-1.007980	-0.670303	-0.332588	0.005100	0.343124	0.681316	1.020088	
+stitch cam0	su_ix23	X=	1.50770	1.16884	0.83065	0.15423	0.49235	-0.18384	-0.52218	-0.86080	
+stitch cam1	su_ix24	X=	-1.16817	-0.83018	-0.49243	-0.15476	0.18296	0.52093	0.85927	1.19806	
+
+ireieat	0	-1.346184	-1.008194	-0.670437	-0.332767	0.004948	0.342915	0.681259	1.020050	
+stitch cam0	su_ix0	X=	1.51329	1.17442	0.83600	0.49783	0.15960	-0.17852	-0.51670	-0.85538	
+stitch cam1	su_ix1	X=	-1.16178	-0.82369	-0.48587	-0.14813	0.18924	0.52739	0.86561	1.20442	
+
+ireieat	0	-1.345169	-1.007080	-0.669254	-0.331516	0.005852	0.344006	0.682220	1.021027	
+stitch cam0	su_ix23	X=	1.51219	1.17339	0.83498	0.49653	0.15847	-0.17968	-0.51805	-0.85654	
+stitch cam1	su_ix24	X=	-1.16239	-0.82449	-0.48686	-0.14924	0.18834	0.52638	0.86467	1.20357	
+
+ireieat	0	-1.344646	-1.006737	-0.669113	-0.331493	0.006088	0.344131	0.682419	1.021313	
+stitch cam0	su_ix0	X=	1.16721	1.17897	1.51109	1.16529	0.83391	0.49573	0.15766	-0.18047	-0.51885	-0.85740	
+stitch cam1	su_ix1	X=	-0.82717	-0.48951	-0.15187	0.18596	0.52383	0.86238	1.20103	
+
+ireieat	0	-1.008614	-0.670956	-0.333313	0.004517	0.342384	0.680939	1.019592	
+stitch cam0	su_ix23	X=	1.50856	1.16984	0.83143	0.49327	0.15519	-0.18300	-0.52118	-0.85968	
+stitch cam1	su_ix24	X=	-1.16800	-0.82980	-0.49213	-0.15451	0.18333	0.52118	0.85957	1.19839	
+
+ireieat	0	-1.346973	-1.008774	-0.671108	-0.333488	0.004349	0.342201	0.680595	1.019413	
+stitch cam0	su_ix0	X=	1.51295	1.17394	0.83546	0.49726	0.15919	-0.17897	-0.51737	-0.85588	
+stitch cam1	su_ix1	X=	-1.16218	-0.82429	-0.48640	-0.14883	0.18874	0.52674	0.86509	1.20403	
+
+ireieat	0	-1.345154	-1.007263	-0.669369	-0.331802	0.005768	0.343769	0.682114	1.021061	
+stitch cam0	su_ix23	X=	1.51272	1.17390	0.83529	0.49714	0.15911	-0.51740	-0.17922	-0.85608	
+stitch cam1	su_ix24	X=	-1.16223	-0.82411	-0.48634	-0.14867	0.18889	0.52690	0.86524	1.20409	
+
+ireieat	0	-1.345131	-1.007004	-0.669235	-0.331566	0.005997	0.344006	0.682346	1.021194	
+stitch cam0	su_ix0	X=	1.51362	1.17478	0.83646	0.49818	0.16014	-0.17812	-0.51622	-0.85492	
+stitch cam1	su_ix1	X=	-1.16251	-0.82439	-0.48671	-0.14912	0.18843	0.52646	0.86476	1.20375	
+
+ireieat	0	-1.346428	-1.008308	-0.670631	-0.333046	0.004505	0.342537	0.680840	1.019825	
+stitch cam0	su_ix23	X=	1.50975	1.17110	0.83265	0.49436	0.15622	-0.18178	-0.52012	-0.85869	
+stitch cam1	su_ix24	X=	-1.16624	-0.82810	-0.49032	-0.15262	0.18503	0.52292	0.86139	1.20017	
+
+ireieat	0	-1.346245	-1.008106	-0.670322	-0.332626	0.005028	0.342915	0.681381	1.020164	
+stitch cam0	su_ix0	X=	1.51352	1.17472	0.83637	0.49808	0.16009	-0.17810	-0.51624	-0.85487	
+stitch cam1	su_ix1	X=	-1.16178	-0.82362	-0.48575	-0.14808	0.18938	0.52741	0.86588	1.20468	
+
+ireieat	0	-1.345661	-1.007504	-0.669628	-0.331955	0.005505	0.343529	0.681999	1.020802	
+stitch cam0	su_ix23	X=	1.51375	1.17480	0.83647	0.49818	0.16007	-0.17816	-0.51653	-0.85514	
+stitch cam1	su_ix24	X=	-1.16148	-0.82340	-0.48563	-0.14802	0.18966	0.52763	0.86586	1.20469	
+
+ireieat	0	-1.345333	-1.007259	-0.669483	-0.331879	0.005806	0.343777	0.682003	1.020840	
+stitch cam0	su_ix0	X=	1.51061	1.17171	0.83347	0.49529	0.15714	-0.18077	-0.51900	-0.85738	
+stitch cam1	su_ix1	X=	-1.16537	-0.82740	-0.48971	-0.15192	0.18569	0.52355	0.86184	1.20081	
+
+ireieat	0	-1.346291	-1.008327	-0.670635	-0.332848	0.004768	0.342628	0.680916	1.019886	
+stitch cam0	su_ix23	X=	1.51094	1.17204	0.83377	0.49547	0.15729	-0.18066	-0.85745	-0.51898	
+stitch cam1	su_ix24	X=	-1.16512	-0.82687	-0.48916	-0.15160	0.18634	0.52403	0.86253	1.20125	
+
+ireieat	0	-1.346188	-1.007942	-0.670235	-0.332668	0.005268	0.342960	0.681465	1.020176	
+stitch cam0	su_ix0	X=	1.51376	1.17495	0.83667	0.49828	0.16018	-0.17779	-0.51596	-0.85453	
+stitch cam1	su_ix1	X=	-1.16083	-0.82266	-0.48512	-0.14737	0.19027	0.52810	0.86655	1.20559	
+
+ireieat	0	-1.344795	-1.006626	-0.669079	-0.331333	0.006310	0.344139	0.682587	1.021629	
+stitch cam0	su_ix23	X=	1.51387	1.17507	0.83671	0.49834	0.16028	-0.17782	-0.51616	-0.85478	
+stitch cam1	su_ix24	X=	-1.16103	-0.82308	-0.48537	-0.14764	0.19002	0.52790	0.86622	1.20519	
+
+ireieat	0	-1.345093	-1.007137	-0.669426	-0.331703	0.005959	0.343838	0.682156	1.021133	
+stitch cam0	su_ix0	X=	1.51051	1.17166	0.83322	0.49500	0.15704	-0.18112	-0.51941	-0.85793	
+stitch cam1	su_ix1	X=	-1.16584	-0.82789	-0.48985	-0.15232	0.18533	0.52337	0.86174	1.20045	
+
+ireieat	0	-1.346664	-1.008713	-0.670673	-0.333141	0.004509	0.342552	0.680912	1.019623	
+stitch cam0	su_ix23	X=	1.51089	1.17224	0.83381	0.49554	0.15738	-0.18069	-0.85730	-0.51894	
+stitch cam1	su_ix24	X=	-1.16505	-0.82701	-0.48941	-0.15163	0.18606	0.52399	0.86222	1.20129	
+
+ireieat	0	-1.346214	-1.008175	-0.670570	-0.332794	0.004898	0.342823	0.681061	1.020126	
+
+Testmode protocol of session Date=Tue Oct 09 11:26:30 2018
+
+stitch cam0	su_ix0	X=	1.50981	1.17058	0.83222	0.49380	0.15548	-0.18252	-0.52097	-0.85959	
+stitch cam1	su_ix1	X=	-1.16715	-0.82893	-0.49135	-0.15382	0.18412	0.52179	0.86018	1.19903	
+
+ireieat	0	-1.346165	-1.007946	-0.670372	-0.332840	0.005104	0.342773	0.681160	1.020012	
+stitch cam0	su_ix23	X=	1.51020	1.17129	0.83290	0.49457	0.15636	-0.18177	-0.52011	-0.85872	
+stitch cam1	su_ix24	X=	-1.16592	-0.82781	-0.49009	-0.15237	0.18520	0.52313	0.86159	1.20030	
+
+ireieat	0	-1.345825	-1.007710	-0.669994	-0.332279	0.005299	0.343227	0.681686	1.020390	
+stitch cam0	su_ix0	X=	1.51139	1.17276	0.83423	0.15791	0.49605	-0.18015	-0.51841	-0.85686	
+stitch cam1	su_ix1	X=	-1.16361	-0.82560	-0.48783	-0.15017	0.18753	0.52547	0.86382	1.20280	
+
+ireieat	0	-1.345055	-1.007046	-0.669277	-0.331619	0.006088	0.344021	0.682373	1.021358	
+stitch cam0	su_ix23	X=	1.50226	1.16343	0.82512	0.14880	0.48677	-0.18947	-0.52781	-0.86619	
+stitch cam1	su_ix24	X=	-1.17368	-0.83583	-0.49787	-0.16019	0.17755	0.51543	0.85378	1.19277	
+
+ireieat	0	-1.346016	-1.008163	-0.670204	-0.332527	0.005219	0.343094	0.681438	1.020432	
+stitch cam0	su_ix0	X=	1.51161	1.17280	0.83437	0.49610	0.15800	-0.18019	-0.51835	-0.85696	
+stitch cam1	su_ix1	X=	-1.16352	-0.82530	-0.48759	-0.15004	0.18774	0.52555	0.86399	1.20291	
+
+ireieat	0	-1.345066	-1.006836	-0.669128	-0.331581	0.006203	0.344009	0.682446	1.021370	
+stitch cam0	su_ix23	X=	1.51103	1.17230	0.83389	0.49555	0.15747	-0.18057	-0.51888	-0.85749	
+stitch cam1	su_ix24	X=	-1.16392	-0.82602	-0.48826	-0.15059	0.18713	0.52504	0.86330	1.20238	
+
+ireieat	0	-1.344929	-1.007030	-0.669262	-0.331596	0.006123	0.344028	0.682289	1.021378	
+stitch cam0	su_ix0	X=	1.51417	1.17524	0.83683	0.49862	0.16067	-0.17741	-0.51570	-0.85425	
+stitch cam1	su_ix1	X=	-1.16210	-0.82402	-0.48644	-0.14872	0.18895	0.52678	0.86515	1.20410	
+
+ireieat	0	-1.346310	-1.008224	-0.670643	-0.332924	0.004749	0.342579	0.680946	1.019897	
+stitch cam0	su_ix23	X=	1.50908	1.17040	0.83203	0.49378	0.15557	-0.18247	-0.52075	-0.85907	
+stitch cam1	su_ix24	X=	-1.16759	-0.82944	-0.49176	-0.15403	0.18374	0.52172	0.86012	1.19878	
+
+ireieat	0	-1.346703	-1.008549	-0.670868	-0.333141	0.004635	0.342606	0.681007	1.019665	
+stitch cam0	su_ix0	X=	1.50286	1.16376	0.82538	0.48706	0.14876	-0.18918	-0.52756	-0.86612	
+stitch cam1	su_ix1	X=	-1.17347	-0.83538	-0.49769	-0.16007	0.17742	0.51553	0.85387	1.19263	
+
+ireieat	0	-1.345913	-1.007820	-0.670132	-0.332512	0.004982	0.343090	0.681423	1.020187	
+stitch cam0	su_ix23	X=	1.50388	1.16505	0.48828	0.82664	0.15005	-0.18803	-0.52641	-0.86497	
+stitch cam1	su_ix24	X=	-1.17172	-0.83354	-0.49581	-0.15818	0.17940	0.51741	0.85575	1.19452	
+
+ireieat	0	-1.345448	-1.007275	-0.669537	-0.331909	0.005669	0.343674	0.682018	1.020790	
+stitch cam0	su_ix0	X=	1.51531	1.17653	0.83805	0.49988	0.16178	-0.17620	-0.51459	-0.85300	
+stitch cam1	su_ix1	X=	-1.16028	-0.82230	-0.48429	-0.14671	0.19098	0.52908	0.86728	1.20609	
+
+ireieat	0	-1.345737	-1.007759	-0.669746	-0.332169	0.005524	0.343624	0.681824	1.020638	
+stitch cam0	su_ix23	X=	1.50279	1.16389	0.82564	0.48722	0.14925	-0.18914	-0.52736	-0.86578	
+stitch cam1	su_ix24	X=	-1.17286	-0.83472	-0.49683	-0.15936	0.17844	0.51632	0.85474	1.19363	
+
+ireieat	0	-1.345791	-1.007648	-0.669762	-0.332294	0.005508	0.343388	0.681805	1.020702	
+stitch cam0	su_ix0	X=	1.50385	1.16505	0.82668	0.48838	0.15023	-0.18821	-0.52622	-0.86465	
+stitch cam1	su_ix1	X=	-1.17166	-0.83356	-0.49574	-0.15802	0.17941	0.51752	0.85550	1.19458	
+
+ireieat	0	-1.345566	-1.007469	-0.669647	-0.331932	0.005508	0.343609	0.681595	1.020668	
+stitch cam0	su_ix23	X=	1.50490	1.16603	0.82767	0.48943	0.15119	-0.18685	-0.52518	-0.86386	
+stitch cam1	su_ix24	X=	-1.17057	-0.83245	-0.49457	-0.15699	0.18072	0.51859	0.85708	1.19567	
+
+ireieat	0	-1.345448	-1.007317	-0.669445	-0.331860	0.005848	0.343719	0.682209	1.020798	
+stitch cam0	su_ix0	X=	1.51157	1.17280	0.83448	0.49615	0.15800	-0.18005	-0.51827	-0.85657	
+stitch cam1	su_ix1	X=	-1.16417	-0.82596	-0.48815	-0.15047	0.18716	0.52530	0.86353	1.20232	
+
+ireieat	0	-1.345852	-1.007641	-0.669834	-0.332146	0.005478	0.343616	0.681847	1.020638	
+stitch cam0	su_ix23	X=	1.50349	0.82623	1.16470	0.48817	0.14996	-0.18816	-0.52646	-0.86497	
+stitch cam1	su_ix24	X=	-1.17216	-0.83412	-0.49628	-0.15874	0.17902	0.51686	0.85538	1.19410	
+
+ireieat	0	-1.345795	-1.007748	-0.669910	-0.332371	0.005383	0.343227	0.681744	1.020470	
+stitch cam0	su_ix0	X=	1.50606	1.16735	0.82882	0.49066	0.15254	-0.18560	-0.52402	-0.86248	
+stitch cam1	su_ix1	X=	-1.16914	-0.83109	-0.49333	-0.15567	0.18208	0.51988	0.85836	1.19709	
+
+ireieat	0	-1.345360	-1.007309	-0.669556	-0.331886	0.005859	0.343655	0.682137	1.020870	
+stitch cam0	su_ix23	X=	1.50615	1.16738	0.82902	0.49071	0.15259	-0.18556	-0.52392	-0.86256	
+stitch cam1	su_ix24	X=	-1.16918	-0.83123	-0.49343	-0.15556	0.18188	0.51995	0.85837	1.19714	
+
+ireieat	0	-1.345448	-1.007492	-0.669701	-0.331821	0.005619	0.343685	0.682106	1.020878	
+stitch cam0	su_ix0	X=	1.51394	1.17515	0.83680	0.49853	0.16048	-0.17761	-0.51580	-0.85458	
+stitch cam1	su_ix1	X=	-1.16180	-0.82376	-0.48589	-0.14843	0.18934	0.52729	0.86571	1.20447	
+
+ireieat	0	-1.345959	-1.007919	-0.670044	-0.332584	0.005184	0.343136	0.681557	1.020313	
+stitch cam0	su_ix23	X=	1.50445	1.16562	0.82742	0.48909	0.15092	-0.18712	-0.52563	-0.86409	
+stitch cam1	su_ix24	X=	-1.17131	-0.83343	-0.49572	-0.15789	0.17974	0.51773	0.85597	1.19483	
+
+ireieat	0	-1.345905	-1.008034	-0.670319	-0.332493	0.005138	0.343128	0.681374	1.020229	
+stitch cam0	su_ix0	X=	1.50815	1.16942	0.83105	0.49281	0.15474	-0.18339	-0.52157	-0.86017	
+stitch cam1	su_ix1	X=	-1.16652	-0.82867	-0.49075	-0.15316	0.18435	0.52249	0.86068	1.19946	
+
+ireieat	0	-1.344940	-1.007088	-0.669167	-0.331573	0.005936	0.344074	0.682259	1.021042	
+stitch cam0	su_ix23	X=	1.50636	1.16745	0.82899	0.49069	0.15263	-0.18551	-0.52394	-0.86220	
+stitch cam1	su_ix24	X=	-1.16858	-0.83050	-0.49276	-0.15503	0.18249	0.52058	0.85892	1.19767	
+
+ireieat	0	-1.344887	-1.006813	-0.669067	-0.331341	0.006184	0.344269	0.682610	1.021362	
+stitch cam0	su_ix0	X=	1.51324	1.17462	0.83613	0.49792	0.15986	-0.17815	-0.51647	-0.85514	
+stitch cam1	su_ix1	X=	-1.16249	-0.82447	-0.48683	-0.14890	0.18859	0.52660	0.86494	1.20397	
+
+ireieat	0	-1.346024	-1.008011	-0.670368	-0.332432	0.005054	0.343067	0.681404	1.020439	
+stitch cam0	su_ix23	X=	1.50517	1.16631	0.82810	0.48978	0.15148	-0.18656	-0.52475	-0.86345	
+stitch cam1	su_ix24	X=	-1.17108	-0.83296	-0.49506	-0.15744	0.18013	0.51816	0.85638	1.19532	
+
+ireieat	0	-1.346233	-1.008121	-0.670212	-0.332592	0.004974	0.343006	0.681221	1.020164	
+stitch cam0	su_ix0	X=	1.50608	1.16716	0.49063	0.82868	0.15235	-0.18580	-0.52404	-0.86271	
+stitch cam1	su_ix1	X=	-1.16946	-0.83145	-0.49441	-0.15603	0.18170	0.51960	0.85798	1.19676	
+
+ireieat	0	-1.345490	-1.007477	-0.670441	-0.332066	0.005665	0.343567	0.681950	1.020729	
+stitch cam0	su_ix23	X=	1.16620	1.50509	0.82777	0.48947	0.15132	-0.18679	-0.52508	-0.86349	
+stitch cam1	su_ix24	X=	-1.16976	-0.83177	-0.49402	-0.15636	0.18136	0.51937	0.85754	1.19634	
+
+ireieat	0	-1.344761	-1.006767	-0.669018	-0.331364	0.006355	0.344376	0.682541	1.021339	
+stitch cam0	su_ix0	X=	1.50987	1.17098	0.83265	0.49445	0.15632	-0.18178	-0.52003	-0.85877	
+stitch cam1	su_ix1	X=	-1.16646	-0.82836	-0.49057	-0.15300	0.18475	0.52273	0.86093	1.19988	
+
+ireieat	0	-1.346451	-1.008354	-0.670563	-0.333000	0.004757	0.342739	0.680935	1.019882	
+stitch cam0	su_ix23	X=	1.50505	1.16621	0.82806	0.48973	0.15161	-0.18653	-0.86335	-0.52478	
+stitch cam1	su_ix24	X=	-1.17087	-0.83288	-0.49506	-0.15743	0.18019	0.51822	0.85660	1.19545	
+
+ireieat	0	-1.346161	-1.008163	-0.670345	-0.332722	0.004906	0.342937	0.681313	1.020164	
+stitch cam0	su_ix0	X=	1.51125	1.17241	0.83405	0.49578	0.15761	-0.18035	-0.51849	-0.85709	
+stitch cam1	su_ix1	X=	-1.16335	-0.82537	-0.48763	-0.14997	0.18751	0.52562	0.86385	1.20277	
+
+ireieat	0	-1.344639	-1.006653	-0.668922	-0.331257	0.006218	0.344334	0.682564	1.021481	
+stitch cam0	su_ix23	X=	1.51161	1.17284	0.83438	0.49610	0.15780	-0.18032	-0.51855	-0.85715	
+stitch cam1	su_ix24	X=	-1.16430	-0.82638	-0.48853	-0.15098	0.18670	0.52470	0.86314	1.20183	
+
+ireieat	0	-1.345776	-1.007858	-0.670013	-0.332462	0.005215	0.343216	0.681656	1.020351	
+stitch cam0	su_ix0	X=	1.50894	1.17017	0.83190	0.15564	0.49370	-0.18247	-0.52082	-0.85941	
+stitch cam1	su_ix1	X=	-0.82894	-0.49129	-0.15351	0.18422	0.52197	0.86043	1.19949	
+
+ireieat	0	-1.008255	-0.670601	-0.332829	0.004902	0.342659	0.681110	1.020176	
+stitch cam0	su_ix23	X=	1.50005	1.16129	0.82302	0.48482	-0.19144	0.14670	-0.52952	-0.86815	
+stitch cam1	su_ix24	X=	-1.17590	-0.83773	-0.49985	-0.16232	0.17533	0.51327	0.85161	1.19044	
+
+ireieat	0	-1.346283	-1.008110	-0.670235	-0.332699	0.004944	0.342888	0.681229	1.020058	
+stitch cam0	su_ix0	X=	1.50985	1.17093	0.83244	0.49420	0.15604	-0.18216	-0.52041	-0.85902	
+stitch cam1	su_ix1	X=	-1.16532	-0.82720	-0.48938	-0.15170	0.18581	0.52384	0.86218	1.20116	
+
+ireieat	0	-1.345032	-1.006912	-0.669098	-0.331417	0.006096	0.344128	0.682465	1.021450	
+stitch cam0	su_ix23	X=	1.50927	1.17041	0.83186	0.49368	0.15565	-0.18263	-0.52085	-0.85948	
+stitch cam1	su_ix24	X=	-1.16577	-0.82764	-0.48995	-0.15210	0.18544	0.52339	0.86175	1.20034	
+
+ireieat	0	-1.345093	-1.006966	-0.669277	-0.331425	0.006119	0.344063	0.682423	1.021015	
+stitch cam0	su_ix0	X=	1.50841	1.16956	0.83125	0.49299	0.15500	-0.18313	-0.52130	-0.85996	
+stitch cam1	su_ix1	X=	-1.16830	-0.83020	-0.49248	-0.15485	0.18253	0.52069	0.85889	1.19787	
+
+ireieat	0	-1.346985	-1.008881	-0.671158	-0.333527	0.003845	0.342003	0.680206	1.019188	
+stitch cam0	su_ix23	X=	1.50182	1.16319	0.82470	0.48640	0.14831	-0.18972	-0.52815	-0.86669	
+stitch cam1	su_ix24	X=	-1.17432	-0.83614	-0.49850	-0.16070	0.17700	0.51471	0.85318	1.19215	
+
+ireieat	0	-1.346298	-1.008121	-0.670483	-0.332687	0.005020	0.342731	0.681202	1.020164	
+stitch cam0	su_ix0	X=	1.50896	1.17025	0.83176	0.49357	0.15538	-0.18284	-0.52100	-0.85969	
+stitch cam1	su_ix1	X=	-1.16647	-0.82840	-0.49071	-0.15285	0.18458	0.52265	0.86095	1.19987	
+
+ireieat	0	-1.345524	-1.007458	-0.669762	-0.331902	0.005524	0.343597	0.681896	1.020813	
+stitch cam0	su_ix23	X=	1.50955	1.17078	0.83233	0.15594	0.49415	-0.18222	-0.52053	-0.85912	
+stitch cam1	su_ix24	X=	-1.16592	-0.82773	-0.48994	-0.15233	0.18518	0.52333	0.86164	1.20019	
+
+ireieat	0	-1.345539	-1.007347	-0.669556	-0.331944	0.005558	0.343708	0.682018	1.020576	
+stitch cam0	su_ix0	X=	1.50698	1.16801	0.82981	0.49158	0.15340	-0.18458	-0.52286	-0.86132	
+stitch cam1	su_ix1	X=	-1.16920	-0.83108	-0.49314	-0.15564	0.18221	0.52012	0.85848	1.19718	
+
+ireieat	0	-1.346279	-1.008160	-0.670219	-0.332722	0.005135	0.343044	0.681404	1.020107	
+stitch cam0	su_ix23	X=	1.50135	1.16257	0.82418	0.14776	0.48599	-0.19025	-0.52853	-0.86707	
+stitch cam1	su_ix24	X=	-1.17513	-0.83692	-0.49904	-0.16160	0.17627	0.51406	0.85254	1.19121	
+
+ireieat	0	-1.346561	-1.008354	-0.670471	-0.333038	0.004829	0.342628	0.681103	1.019775	
+stitch cam0	su_ix0	X=	1.51044	1.17152	0.83315	0.15664	0.49478	-0.18147	-0.51975	-0.85830	
+stitch cam1	su_ix1	X=	-1.16471	-0.82647	-0.48874	-0.15104	0.18667	0.52462	0.86295	1.20165	
+
+ireieat	0	-1.345028	-1.006790	-0.669060	-0.331356	0.006348	0.344299	0.682632	1.021328	
+stitch cam0	su_ix23	X=	1.50946	1.17070	0.83240	0.49394	0.15587	-0.18216	-0.52050	-0.85908	
+stitch cam1	su_ix24	X=	-1.16558	-0.82776	-0.49000	-0.15217	0.18540	0.52334	0.86173	1.20048	
+
+ireieat	0	-1.345127	-1.007309	-0.669548	-0.331718	0.005848	0.343796	0.682186	1.020935	
+stitch cam0	su_ix0	X=	1.50877	1.16988	0.83142	0.49324	0.15517	-0.18301	-0.52125	-0.85982	
+stitch cam1	su_ix1	X=	-1.16774	-0.82980	-0.49205	-0.15424	0.18347	0.52132	0.85967	1.19848	
+
+ireieat	0	-1.346584	-1.008656	-0.670895	-0.333088	0.004616	0.342472	0.680817	1.019627	
+stitch cam0	su_ix23	X=	1.50163	1.16267	0.82448	0.48625	0.14815	-0.18999	-0.52827	-0.86654	
+stitch cam1	su_ix24	X=	-1.17497	-0.83671	-0.49896	-0.16148	0.17638	0.51436	0.85265	1.19140	
+
+ireieat	0	-1.346798	-1.008541	-0.670788	-0.333305	0.004555	0.342525	0.680828	1.019577	
+stitch cam0	su_ix0	X=	-0.89362	-0.69338	-0.49338	-0.29350	-0.09362	0.10626	0.30606	0.50592	0.70580	0.90573	1.10569	1.30589	1.50613	1.70667	
+stitch cam1	su_ix1	X=	
+
+ireieat	0	
+ireieat	1	
+ireieat	2	
+ireieat	3	
+ireieat	4	
+ireieat	5	
+ireieat	6	
+ireieat	7	
+ireieat	8	
+ireieat	9	
+ireieat	10	
+ireieat	11	
+ireieat	12	
+ireieat	13	
+stitch cam0	su_ix0	X=	-0.89698	-0.69666	-0.49669	-0.29670	-0.09682	0.10299	0.30284	0.50267	0.70265	0.90260	1.10262	1.30272	1.50303	1.70350	
+stitch cam1	su_ix1	X=	
+
+ireieat	0	
+ireieat	1	
+ireieat	2	
+ireieat	3	
+ireieat	4	
+ireieat	5	
+ireieat	6	
+ireieat	7	
+ireieat	8	
+ireieat	9	
+ireieat	10	
+ireieat	11	
+ireieat	12	
+ireieat	13	
+stitch cam0	su_ix0	X=	-0.90033	-0.70018	-0.50018	-0.30017	-0.10022	0.09967	0.29946	0.49933	0.69927	0.89923	1.09923	1.29938	1.49969	1.70015	
+stitch cam1	su_ix1	X=	
+
+ireieat	0	
+ireieat	1	
+ireieat	2	
+ireieat	3	
+ireieat	4	
+ireieat	5	
+ireieat	6	
+ireieat	7	
+ireieat	8	
+ireieat	9	
+ireieat	10	
+ireieat	11	
+ireieat	12	
+ireieat	13	
+stitch cam0	su_ix0	X=	-0.90068	-0.70049	-0.50051	-0.30059	-0.10066	0.09911	0.29895	0.49881	0.69870	0.89862	1.09861	1.29879	1.49903	1.69952	
+stitch cam1	su_ix1	X=	
+
+ireieat	0	
+ireieat	1	
+ireieat	2	
+ireieat	3	
+ireieat	4	
+ireieat	5	
+ireieat	6	
+ireieat	7	
+ireieat	8	
+ireieat	9	
+ireieat	10	
+ireieat	11	
+ireieat	12	
+ireieat	13	
+stitch cam0	su_ix0	X=	-0.89798	-0.69792	-0.49778	-0.29791	-0.09805	0.10182	0.30165	0.50147	0.70135	0.90127	1.10128	1.30144	1.50170	1.70222	
+stitch cam1	su_ix1	X=	
+
+ireieat	0	
+ireieat	1	
+ireieat	2	
+ireieat	3	
+ireieat	4	
+ireieat	5	
+ireieat	6	
+ireieat	7	
+ireieat	8	
+ireieat	9	
+ireieat	10	
+ireieat	11	
+ireieat	12	
+ireieat	13	
+stitch cam0	su_ix0	X=	-0.89686	-0.69675	-0.49667	-0.29678	-0.09693	0.10295	0.30281	0.50261	0.70254	0.90251	1.10250	1.30269	1.50287	1.70345	
+stitch cam1	su_ix1	X=	
+
+ireieat	0	
+ireieat	1	
+ireieat	2	
+ireieat	3	
+ireieat	4	
+ireieat	5	
+ireieat	6	
+ireieat	7	
+ireieat	8	
+ireieat	9	
+ireieat	10	
+ireieat	11	
+ireieat	12	
+ireieat	13	
+stitch cam0	su_ix0	X=	-0.89571	-0.69550	-0.49556	-0.29561	-0.09569	0.10407	0.30385	0.50376	0.70365	0.90361	1.10361	1.30374	1.50398	1.70453	
+stitch cam1	su_ix1	X=	
+
+ireieat	0	
+ireieat	1	
+ireieat	2	
+ireieat	3	
+ireieat	4	
+ireieat	5	
+ireieat	6	
+ireieat	7	
+ireieat	8	
+ireieat	9	
+ireieat	10	
+ireieat	11	
+ireieat	12	
+ireieat	13	
+stitch cam0	su_ix0	X=	-0.90063	-0.70053	-0.50058	-0.30062	-0.10068	0.09911	0.29897	0.49878	0.69874	0.89859	1.09865	1.29881	1.49894	1.69948	
+stitch cam1	su_ix1	X=	
+
+ireieat	0	
+ireieat	1	
+ireieat	2	
+ireieat	3	
+ireieat	4	
+ireieat	5	
+ireieat	6	
+ireieat	7	
+ireieat	8	
+ireieat	9	
+ireieat	10	
+ireieat	11	
+ireieat	12	
+ireieat	13	
+stitch cam0	su_ix0	X=	-0.89824	-0.69817	-0.49811	-0.29813	-0.09826	0.10153	0.30133	0.50119	0.70109	0.90093	1.10109	1.30115	1.50146	1.70193	
+stitch cam1	su_ix1	X=	
+
+ireieat	0	
+ireieat	1	
+ireieat	2	
+ireieat	3	
+ireieat	4	
+ireieat	5	
+ireieat	6	
+ireieat	7	
+ireieat	8	
+ireieat	9	
+ireieat	10	
+ireieat	11	
+ireieat	12	
+ireieat	13	
+stitch cam0	su_ix0	X=	-0.89789	-0.69771	-0.49768	-0.29779	-0.09791	0.10195	0.30175	0.50161	0.70157	0.90154	1.10147	1.30165	1.50188	1.70235	
+stitch cam1	su_ix1	X=	
+
+ireieat	0	
+ireieat	1	
+ireieat	2	
+ireieat	3	
+ireieat	4	
+ireieat	5	
+ireieat	6	
+ireieat	7	
+ireieat	8	
+ireieat	9	
+ireieat	10	
+ireieat	11	
+ireieat	12	
+ireieat	13	
+stitch cam0	su_ix1	X=	-0.90210	-0.70205	-0.50197	-0.30200	-0.10221	0.09763	0.29745	0.49731	0.69725	0.89729	1.09722	1.29734	1.49758	1.69807	
+stitch cam1	su_ix1	X=	
+
+ireieat	0	
+ireieat	1	
+ireieat	2	
+ireieat	3	
+ireieat	4	
+ireieat	5	
+ireieat	6	
+ireieat	7	
+ireieat	8	
+ireieat	9	
+ireieat	10	
+ireieat	11	
+ireieat	12	
+ireieat	13	
+stitch cam0	su_ix0	X=	-0.89951	-0.69948	-0.49950	-0.29949	-0.09957	0.10025	0.30006	0.49987	0.69973	0.89968	1.09972	1.29999	1.50013	1.70066	
+stitch cam1	su_ix1	X=	
+
+ireieat	0	
+ireieat	1	
+ireieat	2	
+ireieat	3	
+ireieat	4	
+ireieat	5	
+ireieat	6	
+ireieat	7	
+ireieat	8	
+ireieat	9	
+ireieat	10	
+ireieat	11	
+ireieat	12	
+ireieat	13	
+stitch cam0	su_ix0	X=	-0.90077	-0.70064	-0.50058	-0.30069	-0.10064	0.09915	0.29904	0.49896	0.69877	0.89883	1.09889	1.29893	1.49922	1.69982	
+stitch cam1	su_ix1	X=	
+
+ireieat	0	
+ireieat	1	
+ireieat	2	
+ireieat	3	
+ireieat	4	
+ireieat	5	
+ireieat	6	
+ireieat	7	
+ireieat	8	
+ireieat	9	
+ireieat	10	
+ireieat	11	
+ireieat	12	
+ireieat	13	
+stitch cam0	su_ix0	X=	-0.89653	-0.69646	-0.49632	-0.29630	-0.09648	0.10346	0.30327	0.50318	0.70320	0.90312	1.10301	1.30327	1.50347	1.70402	
+stitch cam1	su_ix1	X=	
+
+ireieat	0	
+ireieat	1	
+ireieat	2	
+ireieat	3	
+ireieat	4	
+ireieat	5	
+ireieat	6	
+ireieat	7	
+ireieat	8	
+ireieat	9	
+ireieat	10	
+ireieat	11	
+ireieat	12	
+ireieat	13	
